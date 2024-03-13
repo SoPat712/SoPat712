@@ -45,3 +45,5 @@ I'm Josh Patra. I study Computer Science at Rutgers University.
 
 [![Josh's GitHub stats-Dark](https://github-readme-stats-taupe-five-18.vercel.app/api?username=SoPat712&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true&rank_icon=github&hide=contribs#gh-dark-mode-only)](https://github.com/SoPat712/github-readme-stats#gh-dark-mode-only)
 [![Josh's GitHub stats-Light](https://github-readme-stats-taupe-five-18.vercel.app/api?username=SoPat712&show_icons=true&count_private=true&theme=vue&include_all_commits=true&rank_icon=github&hide=contribs#gh-light-mode-only)](https://github.com/SoPat712/github-readme-stats#gh-light-mode-only)
+
+<!--START_SECTION:activity-->

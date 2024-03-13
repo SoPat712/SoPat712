@@ -8,7 +8,7 @@
 
 <br /> 
 
-## Hi! 
+## A little about me! 
 
 I'm Josh Patra. I study Computer Science at Rutgers University.
 

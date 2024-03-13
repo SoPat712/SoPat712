@@ -47,3 +47,9 @@ I'm Josh Patra. I study Computer Science at Rutgers University.
 [![Josh's GitHub stats-Light](https://github-readme-stats-taupe-five-18.vercel.app/api?username=SoPat712&show_icons=true&count_private=true&theme=vue&include_all_commits=true&rank_icon=github&hide=contribs#gh-light-mode-only)](https://github.com/SoPat712/github-readme-stats#gh-light-mode-only)
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#3976](https://github.com/photoprism/photoprism/issues/3976#issuecomment-1877893367) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+2. 🗣 Commented on [#3976](https://github.com/photoprism/photoprism/issues/3976#issuecomment-1877830965) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+3. 🔒 Closed issue [#3976](https://github.com/photoprism/photoprism/issues/3976) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+4. 🗣 Commented on [#3976](https://github.com/photoprism/photoprism/issues/3976#issuecomment-1874767347) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+5. 🗣 Commented on [#3976](https://github.com/photoprism/photoprism/issues/3976#issuecomment-1874662240) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+<!--END_SECTION:activity-->

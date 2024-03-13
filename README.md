@@ -10,7 +10,7 @@
 - 👨‍💻 I'm currently not working on anything major, but there are big things coming soon!
 - 🤖 I primarily code in Java and Dart with the Flutter SDK for Android Development.
 - 🌱 Right now I'm learning C, HTML / JavaScript, and TypeScript.
-- 📫 How to reach me: [joshpatra twelve at gmail dot com](mailto://joshpatra12@gmail.com)
+- 📫 How to reach me: [joshpatra 12 at gmail dot com](mailto:joshpatra12@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/18VeWXNwJek5gNHSUMJx6vZFXLgWm0X4a/view?usp=sharing)
 
 **Languages and Tools:**  

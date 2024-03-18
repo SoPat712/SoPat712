@@ -49,9 +49,9 @@ I'm Josh Patra. I study Computer Science at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3976](https://github.com/photoprism/photoprism/issues/3976#issuecomment-1877893367) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
-2. 🗣 Commented on [#3976](https://github.com/photoprism/photoprism/issues/3976#issuecomment-1877830965) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
-3. 🔒 Closed issue [#3976](https://github.com/photoprism/photoprism/issues/3976) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
-4. 🗣 Commented on [#3976](https://github.com/photoprism/photoprism/issues/3976#issuecomment-1874767347) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
-5. 🗣 Commented on [#3976](https://github.com/photoprism/photoprism/issues/3976#issuecomment-1874662240) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+1. 🔒 Closed issue [#411](https://github.com/OpenBoard-org/OpenBoard/issues/411) in [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard)
+2. 🔒 Closed issue [#216](https://github.com/libimobiledevice/libplist/issues/216) in [libimobiledevice/libplist](https://github.com/libimobiledevice/libplist)
+3. 🗣 Commented on [#3976](https://github.com/photoprism/photoprism/issues/3976#issuecomment-1877893367) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+4. 🗣 Commented on [#3976](https://github.com/photoprism/photoprism/issues/3976#issuecomment-1877830965) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+5. 🔒 Closed issue [#3976](https://github.com/photoprism/photoprism/issues/3976) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
 <!--END_SECTION:activity-->

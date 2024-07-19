@@ -49,9 +49,9 @@ I'm Josh Patra. I study Computer Science at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#527](https://github.com/philippe44/AirConnect/issues/527#issuecomment-2125291847) in [philippe44/AirConnect](https://github.com/philippe44/AirConnect)
-2. 🗣 Commented on [#27](https://github.com/jason0x43/alfred-weather/pull/27#issuecomment-2094864518) in [jason0x43/alfred-weather](https://github.com/jason0x43/alfred-weather)
-3. 🗣 Commented on [#27](https://github.com/jason0x43/alfred-weather/pull/27#issuecomment-2094864140) in [jason0x43/alfred-weather](https://github.com/jason0x43/alfred-weather)
-4. 🔒 Closed issue [#411](https://github.com/OpenBoard-org/OpenBoard/issues/411) in [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard)
-5. 🔒 Closed issue [#216](https://github.com/libimobiledevice/libplist/issues/216) in [libimobiledevice/libplist](https://github.com/libimobiledevice/libplist)
+1. 🗣 Commented on [#34](https://github.com/momaek/authy/issues/34#issuecomment-2240590697) in [momaek/authy](https://github.com/momaek/authy)
+2. 🗣 Commented on [#34](https://github.com/momaek/authy/issues/34#issuecomment-2240537750) in [momaek/authy](https://github.com/momaek/authy)
+3. 🗣 Commented on [#34](https://github.com/momaek/authy/issues/34#issuecomment-2240526615) in [momaek/authy](https://github.com/momaek/authy)
+4. 🗣 Commented on [#527](https://github.com/philippe44/AirConnect/issues/527#issuecomment-2125291847) in [philippe44/AirConnect](https://github.com/philippe44/AirConnect)
+5. 🗣 Commented on [#27](https://github.com/jason0x43/alfred-weather/pull/27#issuecomment-2094864518) in [jason0x43/alfred-weather](https://github.com/jason0x43/alfred-weather)
 <!--END_SECTION:activity-->

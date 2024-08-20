@@ -49,9 +49,9 @@ I'm Josh Patra. I study Computer Science at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/momaek/authy/issues/34#issuecomment-2272386108) in [momaek/authy](https://github.com/momaek/authy)
-2. 🗣 Commented on [#34](https://github.com/momaek/authy/issues/34#issuecomment-2240812639) in [momaek/authy](https://github.com/momaek/authy)
-3. 🗣 Commented on [#34](https://github.com/momaek/authy/issues/34#issuecomment-2240590697) in [momaek/authy](https://github.com/momaek/authy)
-4. 🗣 Commented on [#34](https://github.com/momaek/authy/issues/34#issuecomment-2240537750) in [momaek/authy](https://github.com/momaek/authy)
-5. 🗣 Commented on [#34](https://github.com/momaek/authy/issues/34#issuecomment-2240526615) in [momaek/authy](https://github.com/momaek/authy)
+1. 🗣 Commented on [#877](https://github.com/folke/noice.nvim/issues/877#issuecomment-2299789135) in [folke/noice.nvim](https://github.com/folke/noice.nvim)
+2. 🗣 Commented on [#877](https://github.com/folke/noice.nvim/issues/877#issuecomment-2299784241) in [folke/noice.nvim](https://github.com/folke/noice.nvim)
+3. 🗣 Commented on [#34](https://github.com/momaek/authy/issues/34#issuecomment-2272386108) in [momaek/authy](https://github.com/momaek/authy)
+4. 🗣 Commented on [#34](https://github.com/momaek/authy/issues/34#issuecomment-2240812639) in [momaek/authy](https://github.com/momaek/authy)
+5. 🗣 Commented on [#34](https://github.com/momaek/authy/issues/34#issuecomment-2240590697) in [momaek/authy](https://github.com/momaek/authy)
 <!--END_SECTION:activity-->

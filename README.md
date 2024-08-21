@@ -49,9 +49,9 @@ I'm Josh Patra. I study Computer Science at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/SoPat712/ente-totp/releases/tag/v1.0.0) in [SoPat712/ente-totp](https://github.com/SoPat712/ente-totp)
-2. 🗣 Commented on [#2](https://github.com/chkpwd/alfred-workflows/issues/2#issuecomment-2302209606) in [chkpwd/alfred-workflows](https://github.com/chkpwd/alfred-workflows)
-3. ❗ Opened issue [#2](https://github.com/chkpwd/alfred-workflows/issues/2) in [chkpwd/alfred-workflows](https://github.com/chkpwd/alfred-workflows)
-4. ❗ Opened issue [#1](https://github.com/chkpwd/alfred-workflows/issues/1) in [chkpwd/alfred-workflows](https://github.com/chkpwd/alfred-workflows)
-5. 🗣 Commented on [#877](https://github.com/folke/noice.nvim/issues/877#issuecomment-2299789135) in [folke/noice.nvim](https://github.com/folke/noice.nvim)
+1. ❗ Opened issue [#3](https://github.com/chkpwd/alfred-workflows/issues/3) in [chkpwd/alfred-workflows](https://github.com/chkpwd/alfred-workflows)
+2. 🗣 Commented on [#1](https://github.com/chkpwd/alfred-workflows/issues/1#issuecomment-2302410338) in [chkpwd/alfred-workflows](https://github.com/chkpwd/alfred-workflows)
+3. 🚀 Published release [v1.0.0](https://github.com/SoPat712/ente-totp/releases/tag/v1.0.0) in [SoPat712/ente-totp](https://github.com/SoPat712/ente-totp)
+4. 🗣 Commented on [#2](https://github.com/chkpwd/alfred-workflows/issues/2#issuecomment-2302209606) in [chkpwd/alfred-workflows](https://github.com/chkpwd/alfred-workflows)
+5. ❗ Opened issue [#2](https://github.com/chkpwd/alfred-workflows/issues/2) in [chkpwd/alfred-workflows](https://github.com/chkpwd/alfred-workflows)
 <!--END_SECTION:activity-->

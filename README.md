@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-![](https://komarev.com/ghpvc/?username=SoPat712&color=orange)
+![](https://komarev.com/ghpvc/?username=SoPat712&color=blue)
 
 <a href="https://www.linkedin.com/in/sourav-patra-702661232/">
   <img align="left" alt="Josh's LinkedIN" width="30px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=10&g=102&b=194" />

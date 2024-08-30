@@ -49,9 +49,9 @@ I'm Josh Patra. I study Computer Science at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.0 - Alfrente](https://github.com/SoPat712/Alfrente/releases/tag/v1.3.0) in [SoPat712/Alfrente](https://github.com/SoPat712/Alfrente)
-2. 🚀 Published release [v1.2.0 - Alfrente](https://github.com/SoPat712/Alfrente/releases/tag/v1.2.0) in [SoPat712/Alfrente](https://github.com/SoPat712/Alfrente)
-3. 🚀 Published release [v1.0.0 - Alfrente](https://github.com/SoPat712/Alfrente/releases/tag/v1.0.0) in [SoPat712/Alfrente](https://github.com/SoPat712/Alfrente)
-4. 💪 Opened PR [#5](https://github.com/chkpwd/alfred-workflows/pull/5) in [chkpwd/alfred-workflows](https://github.com/chkpwd/alfred-workflows)
-5. ❌ Closed PR [#4](https://github.com/chkpwd/alfred-workflows/pull/4) in [chkpwd/alfred-workflows](https://github.com/chkpwd/alfred-workflows)
+1. 🚀 Published release [v1.4.0 - Alfrente](https://github.com/SoPat712/Alfrente/releases/tag/v1.4.0) in [SoPat712/Alfrente](https://github.com/SoPat712/Alfrente)
+2. 🚀 Published release [v1.3.0 - Alfrente](https://github.com/SoPat712/Alfrente/releases/tag/v1.3.0) in [SoPat712/Alfrente](https://github.com/SoPat712/Alfrente)
+3. 🚀 Published release [v1.2.0 - Alfrente](https://github.com/SoPat712/Alfrente/releases/tag/v1.2.0) in [SoPat712/Alfrente](https://github.com/SoPat712/Alfrente)
+4. 🚀 Published release [v1.0.0 - Alfrente](https://github.com/SoPat712/Alfrente/releases/tag/v1.0.0) in [SoPat712/Alfrente](https://github.com/SoPat712/Alfrente)
+5. 💪 Opened PR [#5](https://github.com/chkpwd/alfred-workflows/pull/5) in [chkpwd/alfred-workflows](https://github.com/chkpwd/alfred-workflows)
 <!--END_SECTION:activity-->

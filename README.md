@@ -49,9 +49,9 @@ I'm Josh Patra. I study Computer Science at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/chkpwd/alfred-ente-auth/pull/11#issuecomment-2481628956) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
-2. 🗣 Commented on [#11](https://github.com/chkpwd/alfred-ente-auth/pull/11#issuecomment-2481384364) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
-3. 🗣 Commented on [#11](https://github.com/chkpwd/alfred-ente-auth/pull/11#issuecomment-2461112934) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
-4. 💪 Opened PR [#11](https://github.com/chkpwd/alfred-workflows/pull/11) in [chkpwd/alfred-workflows](https://github.com/chkpwd/alfred-workflows)
-5. 🚀 Published release [v1.5.0 - Alfrente](https://github.com/SoPat712/Alfrente/releases/tag/v1.5.0) in [SoPat712/Alfrente](https://github.com/SoPat712/Alfrente)
+1. 🗣 Commented on [#11](https://github.com/chkpwd/alfred-ente-auth/pull/11#issuecomment-2483236809) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
+2. 🗣 Commented on [#11](https://github.com/chkpwd/alfred-ente-auth/pull/11#issuecomment-2481628956) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
+3. 🗣 Commented on [#11](https://github.com/chkpwd/alfred-ente-auth/pull/11#issuecomment-2481384364) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
+4. 🗣 Commented on [#11](https://github.com/chkpwd/alfred-ente-auth/pull/11#issuecomment-2461112934) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
+5. 💪 Opened PR [#11](https://github.com/chkpwd/alfred-workflows/pull/11) in [chkpwd/alfred-workflows](https://github.com/chkpwd/alfred-workflows)
 <!--END_SECTION:activity-->

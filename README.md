@@ -49,9 +49,9 @@ I'm Josh Patra. I study Computer Science at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#527](https://github.com/philippe44/AirConnect/issues/527#issuecomment-2564632130) in [philippe44/AirConnect](https://github.com/philippe44/AirConnect)
-2. ❗ Opened issue [#24](https://github.com/chkpwd/alfred-ente-auth/issues/24) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
-3. ❗ Opened issue [#16](https://github.com/chkpwd/alfred-ente-auth/issues/16) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
-4. 🗣 Commented on [#14](https://github.com/chkpwd/alfred-ente-auth/pull/14#issuecomment-2492397025) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
-5. 💪 Opened PR [#14](https://github.com/chkpwd/alfred-ente-auth/pull/14) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
+1. 🗣 Commented on [#41](https://github.com/henrikruscon/alcove-releases/issues/41#issuecomment-2578123705) in [henrikruscon/alcove-releases](https://github.com/henrikruscon/alcove-releases)
+2. ❗ Opened issue [#41](https://github.com/henrikruscon/alcove-releases/issues/41) in [henrikruscon/alcove-releases](https://github.com/henrikruscon/alcove-releases)
+3. 🗣 Commented on [#527](https://github.com/philippe44/AirConnect/issues/527#issuecomment-2564632130) in [philippe44/AirConnect](https://github.com/philippe44/AirConnect)
+4. ❗ Opened issue [#24](https://github.com/chkpwd/alfred-ente-auth/issues/24) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
+5. ❗ Opened issue [#16](https://github.com/chkpwd/alfred-ente-auth/issues/16) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
 <!--END_SECTION:activity-->

@@ -49,9 +49,9 @@ I'm Josh Patra. I study Computer Science at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#197856](https://github.com/Homebrew/homebrew-cask/pull/197856) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 🗣 Commented on [#41](https://github.com/henrikruscon/alcove-releases/issues/41#issuecomment-2578810229) in [henrikruscon/alcove-releases](https://github.com/henrikruscon/alcove-releases)
-3. 🗣 Commented on [#42](https://github.com/henrikruscon/alcove-releases/issues/42#issuecomment-2578210280) in [henrikruscon/alcove-releases](https://github.com/henrikruscon/alcove-releases)
-4. 🔒 Closed issue [#42](https://github.com/henrikruscon/alcove-releases/issues/42) in [henrikruscon/alcove-releases](https://github.com/henrikruscon/alcove-releases)
-5. ❗ Opened issue [#42](https://github.com/henrikruscon/alcove-releases/issues/42) in [henrikruscon/alcove-releases](https://github.com/henrikruscon/alcove-releases)
+1. 🗣 Commented on [#12598](https://github.com/immich-app/immich/issues/12598#issuecomment-2586301862) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 💪 Opened PR [#197856](https://github.com/Homebrew/homebrew-cask/pull/197856) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+3. 🗣 Commented on [#41](https://github.com/henrikruscon/alcove-releases/issues/41#issuecomment-2578810229) in [henrikruscon/alcove-releases](https://github.com/henrikruscon/alcove-releases)
+4. 🗣 Commented on [#42](https://github.com/henrikruscon/alcove-releases/issues/42#issuecomment-2578210280) in [henrikruscon/alcove-releases](https://github.com/henrikruscon/alcove-releases)
+5. 🔒 Closed issue [#42](https://github.com/henrikruscon/alcove-releases/issues/42) in [henrikruscon/alcove-releases](https://github.com/henrikruscon/alcove-releases)
 <!--END_SECTION:activity-->

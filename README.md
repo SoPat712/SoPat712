@@ -49,7 +49,7 @@ I'm Josh Patra. I study Computer Science at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#201186](https://github.com/Homebrew/homebrew-cask/pull/201186) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. 🗣 Commented on [#3994](https://github.com/community-scripts/ProxmoxVE/issues/3994#issuecomment-2825944548) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
 2. 🗣 Commented on [#14824](https://github.com/immich-app/immich/issues/14824#issuecomment-2590489706) in [immich-app/immich](https://github.com/immich-app/immich)
 3. 🗣 Commented on [#12598](https://github.com/immich-app/immich/issues/12598#issuecomment-2586301862) in [immich-app/immich](https://github.com/immich-app/immich)
 4. 🗣 Commented on [#41](https://github.com/henrikruscon/alcove-releases/issues/41#issuecomment-2578810229) in [henrikruscon/alcove-releases](https://github.com/henrikruscon/alcove-releases)

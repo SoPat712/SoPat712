@@ -10,31 +10,27 @@
 
 ## A little about me! 
 
-I'm Josh Patra. I study Computer Science at Rutgers University.
+I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 
-- 👨‍💻 I'm currently not working on anything major, but there are big things coming soon!
+- 👨‍💻 I'm currently playing around with Svelte and Typescript for a bunch of cool websites!
 - 🤖 I primarily code in Java and Dart with the Flutter SDK for Android Development.
-- 🌱 Right now I'm learning C, HTML / JavaScript, and TypeScript.
+- 🌱 Right now I'm learning Docker, K8s, Proxmox, ESXi and a bunch of networking stuff.
+- 🌐 [My Website](https://joshpatra.me)
+- 📝 [Resume](https://cloud.joshpatra.me/s/MtQDmSHXz6ZsM53)
 - 📫 How to reach me: [joshpatra 12 at gmail dot com](mailto:joshpatra12@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/18VeWXNwJek5gNHSUMJx6vZFXLgWm0X4a/view?usp=sharing)
 
-**Languages and Tools:**  
+**Languages**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+[![Languages](https://skillicons.dev/icons?i=c,java,svelte,flutter,python,js,ts,tailwind,swift,kotlin,html,css,latex)](https://skillicons.dev)
 
+**Tooling**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></code>
+[![Tooling](https://skillicons.dev/icons?i=neovim,git,androidstudio,vscode,idea,pycharm)](https://skillicons.dev)
+
+**Software**
+
+[![Software](https://skillicons.dev/icons?i=nginx,postgres,k8s,arch,debian,linux)](https://skillicons.dev)
+
 
 👨‍💻 **My Top Languages**
 

@@ -13,6 +13,7 @@
 I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 
 - 👨‍💻 I'm currently playing around with Svelte and Typescript for a bunch of cool websites!
+- 🎼 Check out [this game](https://maisie-heardle.joshpatra.me) for some fun! I made it extensible so you can modify it for any artist!
 - 🤖 I primarily code in Java and Dart with the Flutter SDK for Android Development.
 - 🌱 Right now I'm learning Docker, K8s, Proxmox, ESXi and a bunch of networking stuff.
 - 🌐 [My Website](https://joshpatra.me)

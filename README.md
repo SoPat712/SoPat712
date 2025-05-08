@@ -29,7 +29,7 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 
 **Software**
 
-[![Software](https://skillicons.dev/icons?i=nginx,postgres,k8s,arch,debian,linux)](https://skillicons.dev)
+[![Software](https://skillicons.dev/icons?i=nginx,postgres,mongodb,k8s,arch,debian,linux)](https://skillicons.dev)
 
 
 👨‍💻 **My Top Languages**

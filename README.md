@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=SoPat712&color=blue)
 
-<a href="https://www.linkedin.com/in/sourav-patra-702661232/">
-  <img align="left" alt="Josh's LinkedIN" width="30px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=10&g=102&b=194" />
+<a href="https://www.linkedin.com/in/joshpatra/">
+  <img align="left" alt="Josh's LinkedIn" width="30px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=10&g=102&b=194" />
 </a>
 
 <br /> 
@@ -13,7 +13,7 @@
 I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 
 - 👨‍💻 I'm currently playing around with Svelte and Typescript for a bunch of cool websites!
-- 🎼 Check out [this game](https://maisie-heardle.joshpatra.me) for some fun! I made it extensible so you can modify it for any artist!
+- 🎼 Check out [this game](https://maisie-peters-heardle.joshpatra.me) for some fun! I made it extensible so you can modify it for any artist!
 - 🤖 I primarily code in Java and Dart with the Flutter SDK for Android Development.
 - 🌱 Right now I'm learning Docker, K8s, Proxmox, ESXi and a bunch of networking stuff.
 - 🌐 [My Website](https://joshpatra.me)
@@ -52,3 +52,5 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 4. 🗣 Commented on [#3994](https://github.com/community-scripts/ProxmoxVE/issues/3994#issuecomment-2825944548) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
 5. 🗣 Commented on [#42](https://github.com/henrikruscon/alcove-releases/issues/42#issuecomment-2578210280) in [henrikruscon/alcove-releases](https://github.com/henrikruscon/alcove-releases)
 <!--END_SECTION:activity-->
+
+![](https://hit.yhype.me/github/profile?account_id=30350506)

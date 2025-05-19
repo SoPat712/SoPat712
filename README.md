@@ -46,11 +46,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [VideoSpeed Release](https://github.com/SoPat712/videospeed/releases/tag/v1.0.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-2. 🚀 Published release [Video Speed](https://github.com/SoPat712/videospeed/releases/tag/v1.0.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-3. ❗ Opened issue [#2282](https://github.com/AmruthPillai/Reactive-Resume/issues/2282) in [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-4. ❗ Opened issue [#4656](https://github.com/usememos/memos/issues/4656) in [usememos/memos](https://github.com/usememos/memos)
-5. 🗣 Commented on [#682](https://github.com/jellyfin/jellyfin/issues/682#issuecomment-2832642094) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+1. 🗣 Commented on [#62](https://github.com/codebicycle/videospeed/issues/62#issuecomment-2891689732) in [codebicycle/videospeed](https://github.com/codebicycle/videospeed)
+2. 🚀 Published release [VideoSpeed Release](https://github.com/SoPat712/videospeed/releases/tag/v1.0.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+3. 🚀 Published release [Video Speed](https://github.com/SoPat712/videospeed/releases/tag/v1.0.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+4. ❗ Opened issue [#2282](https://github.com/AmruthPillai/Reactive-Resume/issues/2282) in [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+5. ❗ Opened issue [#4656](https://github.com/usememos/memos/issues/4656) in [usememos/memos](https://github.com/usememos/memos)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

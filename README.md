@@ -46,11 +46,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [VideoSpeed v1.1.2](https://github.com/SoPat712/videospeed/releases/tag/v1.1.2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-2. 🚀 Published release [VideoSpeed v1.1.1](https://github.com/SoPat712/videospeed/releases/tag/v1.1.1) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-3. 🗣 Commented on [#62](https://github.com/codebicycle/videospeed/issues/62#issuecomment-2891689732) in [codebicycle/videospeed](https://github.com/codebicycle/videospeed)
-4. 🚀 Published release [VideoSpeed Release](https://github.com/SoPat712/videospeed/releases/tag/v1.0.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-5. 🚀 Published release [Video Speed](https://github.com/SoPat712/videospeed/releases/tag/v1.0.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+1. 🗣 Commented on [#41](https://github.com/akashrchandran/syrics-web/issues/41#issuecomment-2960188323) in [akashrchandran/syrics-web](https://github.com/akashrchandran/syrics-web)
+2. 🚀 Published release [VideoSpeed v1.1.2](https://github.com/SoPat712/videospeed/releases/tag/v1.1.2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+3. 🚀 Published release [VideoSpeed v1.1.1](https://github.com/SoPat712/videospeed/releases/tag/v1.1.1) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+4. 🗣 Commented on [#62](https://github.com/codebicycle/videospeed/issues/62#issuecomment-2891689732) in [codebicycle/videospeed](https://github.com/codebicycle/videospeed)
+5. 🚀 Published release [VideoSpeed Release](https://github.com/SoPat712/videospeed/releases/tag/v1.0.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

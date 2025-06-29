@@ -46,9 +46,9 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10738](https://github.com/immich-app/immich/issues/10738#issuecomment-2971625985) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 🗣 Commented on [#41](https://github.com/akashrchandran/syrics-web/issues/41#issuecomment-2960188323) in [akashrchandran/syrics-web](https://github.com/akashrchandran/syrics-web)
-3. 🚀 Published release [VideoSpeed v1.1.2](https://github.com/SoPat712/videospeed/releases/tag/v1.1.2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+1. 🗣 Commented on [#52](https://github.com/Namo2/InPlayerEpisodePreview/issues/52#issuecomment-3016201863) in [Namo2/InPlayerEpisodePreview](https://github.com/Namo2/InPlayerEpisodePreview)
+2. 🗣 Commented on [#10738](https://github.com/immich-app/immich/issues/10738#issuecomment-2971625985) in [immich-app/immich](https://github.com/immich-app/immich)
+3. 🗣 Commented on [#41](https://github.com/akashrchandran/syrics-web/issues/41#issuecomment-2960188323) in [akashrchandran/syrics-web](https://github.com/akashrchandran/syrics-web)
 4. 🚀 Published release [VideoSpeed v1.1.1](https://github.com/SoPat712/videospeed/releases/tag/v1.1.1) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
 5. 🗣 Commented on [#62](https://github.com/codebicycle/videospeed/issues/62#issuecomment-2891689732) in [codebicycle/videospeed](https://github.com/codebicycle/videospeed)
 <!--END_SECTION:activity-->

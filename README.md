@@ -46,11 +46,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [VideoSpeed v1.5.1](https://github.com/SoPat712/videospeed/releases/tag/v1.5.1) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-2. 🚀 Published release [VideoSpeed v1.5.0](https://github.com/SoPat712/videospeed/releases/tag/v1.5.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-3. 🚀 Published release [VideoSpeed v1.4.5](https://github.com/SoPat712/videospeed/releases/tag/v1.4.5) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-4. 🚀 Published release [VideoSpeed v1.4.2](https://github.com/SoPat712/videospeed/releases/tag/v1.4.2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-5. 🚀 Published release [VideoSpeed v1.4.1](https://github.com/SoPat712/videospeed/releases/tag/v1.4.1) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+1. 🚀 Published release [VideoSpeed v1.6.2](https://github.com/SoPat712/videospeed/releases/tag/v1.6.2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+2. 🔒 Closed issue [#2](https://github.com/SoPat712/videospeed/issues/2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+3. ❗ Opened issue [#2](https://github.com/SoPat712/videospeed/issues/2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+4. 🚀 Published release [VideoSpeed v1.5.1](https://github.com/SoPat712/videospeed/releases/tag/v1.5.1) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+5. 🚀 Published release [VideoSpeed v1.5.0](https://github.com/SoPat712/videospeed/releases/tag/v1.5.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

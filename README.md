@@ -17,7 +17,7 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 - 🤖 I primarily code in Java and Dart with the Flutter SDK for Android Development.
 - 🌱 Right now I'm learning Docker, K8s, Proxmox, ESXi and a bunch of networking stuff.
 - 🌐 [My portfolio](https://joshpatra.me)
-- 📝 [My resume](https://cloud.joshpatra.me/s/MtQDmSHXz6ZsM53)
+- 📝 [My resume](https://cloud.joshpatra.me/s/dfTSsDXNY3EWwnA/download)
 - 📫 How to reach me: [joshpatra 12 at gmail dot com](mailto:joshpatra12@gmail.com)
 
 **Languages**

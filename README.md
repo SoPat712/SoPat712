@@ -46,7 +46,7 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/IAmParadox27/jellyfin-plugin-home-sections/issues/30#issuecomment-3169501525) in [IAmParadox27/jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections)
+1. ❗ Opened issue [#23](https://github.com/BenjaminOddou/alfred-emoji-wine/issues/23) in [BenjaminOddou/alfred-emoji-wine](https://github.com/BenjaminOddou/alfred-emoji-wine)
 2. 🚀 Published release [VideoSpeed v1.6.2](https://github.com/SoPat712/videospeed/releases/tag/v1.6.2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
 3. 🔒 Closed issue [#2](https://github.com/SoPat712/videospeed/issues/2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
 4. ❗ Opened issue [#2](https://github.com/SoPat712/videospeed/issues/2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)

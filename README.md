@@ -46,8 +46,8 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#23](https://github.com/BenjaminOddou/alfred-emoji-wine/issues/23) in [BenjaminOddou/alfred-emoji-wine](https://github.com/BenjaminOddou/alfred-emoji-wine)
-2. 🚀 Published release [VideoSpeed v1.6.2](https://github.com/SoPat712/videospeed/releases/tag/v1.6.2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+1. 🚀 Published release [VideoSpeed v2.0.0](https://github.com/SoPat712/videospeed/releases/tag/v2.0.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+2. ❗ Opened issue [#23](https://github.com/BenjaminOddou/alfred-emoji-wine/issues/23) in [BenjaminOddou/alfred-emoji-wine](https://github.com/BenjaminOddou/alfred-emoji-wine)
 3. 🔒 Closed issue [#2](https://github.com/SoPat712/videospeed/issues/2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
 4. ❗ Opened issue [#2](https://github.com/SoPat712/videospeed/issues/2) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
 5. 🚀 Published release [VideoSpeed v1.5.1](https://github.com/SoPat712/videospeed/releases/tag/v1.5.1) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)

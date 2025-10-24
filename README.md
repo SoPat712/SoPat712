@@ -46,11 +46,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/Mikodin/obsidian-scribe/issues/55#issuecomment-3398221519) in [Mikodin/obsidian-scribe](https://github.com/Mikodin/obsidian-scribe)
-2. 🗣 Commented on [#87](https://github.com/joshuacant/ProjectTitle/issues/87#issuecomment-3395951041) in [joshuacant/ProjectTitle](https://github.com/joshuacant/ProjectTitle)
-3. ❗ Opened issue [#87](https://github.com/joshuacant/ProjectTitle/issues/87) in [joshuacant/ProjectTitle](https://github.com/joshuacant/ProjectTitle)
-4. 🚀 Published release [VideoSpeed v2.0.0](https://github.com/SoPat712/videospeed/releases/tag/v2.0.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-5. 🗣 Commented on [#23](https://github.com/BenjaminOddou/alfred-emoji-wine/issues/23#issuecomment-3312881556) in [BenjaminOddou/alfred-emoji-wine](https://github.com/BenjaminOddou/alfred-emoji-wine)
+1. ❗ Opened issue [#16](https://github.com/roygbyte/crossword.koplugin/issues/16) in [roygbyte/crossword.koplugin](https://github.com/roygbyte/crossword.koplugin)
+2. 🗣 Commented on [#55](https://github.com/Mikodin/obsidian-scribe/issues/55#issuecomment-3398221519) in [Mikodin/obsidian-scribe](https://github.com/Mikodin/obsidian-scribe)
+3. 🗣 Commented on [#87](https://github.com/joshuacant/ProjectTitle/issues/87#issuecomment-3395951041) in [joshuacant/ProjectTitle](https://github.com/joshuacant/ProjectTitle)
+4. ❗ Opened issue [#87](https://github.com/joshuacant/ProjectTitle/issues/87) in [joshuacant/ProjectTitle](https://github.com/joshuacant/ProjectTitle)
+5. 🚀 Published release [VideoSpeed v2.0.0](https://github.com/SoPat712/videospeed/releases/tag/v2.0.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

@@ -46,11 +46,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33](https://github.com/johansan/obsidian-featured-image/issues/33) in [johansan/obsidian-featured-image](https://github.com/johansan/obsidian-featured-image)
-2. 🗣 Commented on [#71](https://github.com/Dispatcharr/Dispatcharr/issues/71#issuecomment-3462291695) in [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)
-3. ❗ Opened issue [#1876](https://github.com/Freika/dawarich/issues/1876) in [Freika/dawarich](https://github.com/Freika/dawarich)
-4. ❗ Opened issue [#16](https://github.com/roygbyte/crossword.koplugin/issues/16) in [roygbyte/crossword.koplugin](https://github.com/roygbyte/crossword.koplugin)
-5. 🗣 Commented on [#55](https://github.com/Mikodin/obsidian-scribe/issues/55#issuecomment-3398221519) in [Mikodin/obsidian-scribe](https://github.com/Mikodin/obsidian-scribe)
+1. 🗣 Commented on [#186](https://github.com/varun-raj/immich-power-tools/issues/186#issuecomment-3489048855) in [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools)
+2. ❗ Opened issue [#33](https://github.com/johansan/obsidian-featured-image/issues/33) in [johansan/obsidian-featured-image](https://github.com/johansan/obsidian-featured-image)
+3. 🗣 Commented on [#71](https://github.com/Dispatcharr/Dispatcharr/issues/71#issuecomment-3462291695) in [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)
+4. ❗ Opened issue [#1876](https://github.com/Freika/dawarich/issues/1876) in [Freika/dawarich](https://github.com/Freika/dawarich)
+5. ❗ Opened issue [#16](https://github.com/roygbyte/crossword.koplugin/issues/16) in [roygbyte/crossword.koplugin](https://github.com/roygbyte/crossword.koplugin)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

@@ -46,11 +46,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/varun-raj/immich-power-tools/issues/186#issuecomment-3489048855) in [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools)
-2. ❗ Opened issue [#33](https://github.com/johansan/obsidian-featured-image/issues/33) in [johansan/obsidian-featured-image](https://github.com/johansan/obsidian-featured-image)
-3. 🗣 Commented on [#71](https://github.com/Dispatcharr/Dispatcharr/issues/71#issuecomment-3462291695) in [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)
-4. ❗ Opened issue [#1876](https://github.com/Freika/dawarich/issues/1876) in [Freika/dawarich](https://github.com/Freika/dawarich)
-5. ❗ Opened issue [#16](https://github.com/roygbyte/crossword.koplugin/issues/16) in [roygbyte/crossword.koplugin](https://github.com/roygbyte/crossword.koplugin)
+1.  Labeled issue [#505](https://github.com/RyotaUshio/obsidian-pdf-plus/issues/505) in [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus)
+2. ❗ Opened issue [#505](https://github.com/RyotaUshio/obsidian-pdf-plus/issues/505) in [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus)
+3. 🗣 Commented on [#186](https://github.com/varun-raj/immich-power-tools/issues/186#issuecomment-3489048855) in [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools)
+4. ❗ Opened issue [#33](https://github.com/johansan/obsidian-featured-image/issues/33) in [johansan/obsidian-featured-image](https://github.com/johansan/obsidian-featured-image)
+5. 🗣 Commented on [#71](https://github.com/Dispatcharr/Dispatcharr/issues/71#issuecomment-3462291695) in [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

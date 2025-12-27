@@ -2,12 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=SoPat712&color=blue)
 
-<a href="https://www.linkedin.com/in/joshpatra/">
-  <img align="left" alt="Josh's LinkedIn" width="30px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=10&g=102&b=194" />
-</a>
-
-<br /> 
-
 ## A little about me! 
 
 I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
@@ -18,7 +12,12 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 - 🌱 Right now I'm learning Docker, K8s, Proxmox, ESXi and a bunch of networking stuff.
 - 🌐 [My portfolio](https://joshpatra.me)
 - 📝 [My resume](https://cloud.joshpatra.me/s/7TcAf4FfwEiXcrF/preview)
-- 📫 How to reach me: [joshpatra 12 at gmail dot com](mailto:joshpatra12@gmail.com)
+<a href="https://www.linkedin.com/in/joshpatra/">
+  <img align="left" alt="Josh's LinkedIn" width="30px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=10&g=102&b=194" />
+</a>
+
+<br /> 
+<br /> 
 
 **Languages**
 

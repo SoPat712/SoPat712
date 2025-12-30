@@ -45,10 +45,10 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/johansan/obsidian-featured-image/issues/33#issuecomment-3647705378) in [johansan/obsidian-featured-image](https://github.com/johansan/obsidian-featured-image)
-2. 🚀 Published release [VideoSpeed v2.1.0](https://github.com/SoPat712/videospeed/releases/tag/v2.1.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-3. 🗣 Commented on [#1](https://github.com/SoPat712/videospeed/issues/1#issuecomment-3576061445) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-4. ❗ Opened issue [#1](https://github.com/segin/arr-monitor/issues/1) in [segin/arr-monitor](https://github.com/segin/arr-monitor)
+1. 🗣 Commented on [#2090](https://github.com/Freika/dawarich/issues/2090#issuecomment-3700082832) in [Freika/dawarich](https://github.com/Freika/dawarich)
+2. 🔒 Closed issue [#2091](https://github.com/Freika/dawarich/issues/2091) in [Freika/dawarich](https://github.com/Freika/dawarich)
+3. ❗ Opened issue [#2091](https://github.com/Freika/dawarich/issues/2091) in [Freika/dawarich](https://github.com/Freika/dawarich)
+4. 🗣 Commented on [#33](https://github.com/johansan/obsidian-featured-image/issues/33#issuecomment-3647705378) in [johansan/obsidian-featured-image](https://github.com/johansan/obsidian-featured-image)
 5. ❗ Opened issue [#505](https://github.com/RyotaUshio/obsidian-pdf-plus/issues/505) in [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus)
 <!--END_SECTION:activity-->
 

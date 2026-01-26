@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2168](https://github.com/Freika/dawarich/issues/2168) in [Freika/dawarich](https://github.com/Freika/dawarich)
-2. 🗣 Commented on [#595](https://github.com/dayanch96/YTLite/issues/595#issuecomment-3707196705) in [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
-3. 🗣 Commented on [#2090](https://github.com/Freika/dawarich/issues/2090#issuecomment-3700082832) in [Freika/dawarich](https://github.com/Freika/dawarich)
-4. 🔒 Closed issue [#2091](https://github.com/Freika/dawarich/issues/2091) in [Freika/dawarich](https://github.com/Freika/dawarich)
-5. ❗ Opened issue [#2091](https://github.com/Freika/dawarich/issues/2091) in [Freika/dawarich](https://github.com/Freika/dawarich)
+1. ❗ Opened issue [#8](https://github.com/bransoned/octo-fiestarr/issues/8) in [bransoned/octo-fiestarr](https://github.com/bransoned/octo-fiestarr)
+2. ❗ Opened issue [#2168](https://github.com/Freika/dawarich/issues/2168) in [Freika/dawarich](https://github.com/Freika/dawarich)
+3. 🗣 Commented on [#595](https://github.com/dayanch96/YTLite/issues/595#issuecomment-3707196705) in [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
+4. 🗣 Commented on [#2090](https://github.com/Freika/dawarich/issues/2090#issuecomment-3700082832) in [Freika/dawarich](https://github.com/Freika/dawarich)
+5. 🔒 Closed issue [#2091](https://github.com/Freika/dawarich/issues/2091) in [Freika/dawarich](https://github.com/Freika/dawarich)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

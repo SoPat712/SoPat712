@@ -45,7 +45,7 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SoPat712/allstarr/pull/1#issuecomment-3824625077) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+1. 🗣 Commented on [#8](https://github.com/bransoned/octo-fiestarr/issues/8#issuecomment-3837208302) in [bransoned/octo-fiestarr](https://github.com/bransoned/octo-fiestarr)
 2. 🗣 Commented on [#184](https://github.com/aaronpk/Overland-iOS/issues/184#issuecomment-3819233478) in [aaronpk/Overland-iOS](https://github.com/aaronpk/Overland-iOS)
 3. 🗣 Commented on [#180](https://github.com/aaronpk/Overland-iOS/pull/180#issuecomment-3819230974) in [aaronpk/Overland-iOS](https://github.com/aaronpk/Overland-iOS)
 4. ❗ Opened issue [#184](https://github.com/aaronpk/Overland-iOS/issues/184) in [aaronpk/Overland-iOS](https://github.com/aaronpk/Overland-iOS)

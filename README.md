@@ -45,8 +45,8 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#248333](https://github.com/Homebrew/homebrew-cask/pull/248333) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 🗣 Commented on [#184](https://github.com/aaronpk/Overland-iOS/issues/184#issuecomment-3819233478) in [aaronpk/Overland-iOS](https://github.com/aaronpk/Overland-iOS)
+1. 🎉 Merged PR [#248333](https://github.com/Homebrew/homebrew-cask/pull/248333) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 💪 Opened PR [#248333](https://github.com/Homebrew/homebrew-cask/pull/248333) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 3. 🗣 Commented on [#180](https://github.com/aaronpk/Overland-iOS/pull/180#issuecomment-3819230974) in [aaronpk/Overland-iOS](https://github.com/aaronpk/Overland-iOS)
 4. ❗ Opened issue [#184](https://github.com/aaronpk/Overland-iOS/issues/184) in [aaronpk/Overland-iOS](https://github.com/aaronpk/Overland-iOS)
 5. ❗ Opened issue [#2168](https://github.com/Freika/dawarich/issues/2168) in [Freika/dawarich](https://github.com/Freika/dawarich)

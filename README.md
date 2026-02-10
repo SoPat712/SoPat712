@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/SoPat712/allstarr/issues/2#issuecomment-3873898700) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-2. 🗣 Commented on [#2](https://github.com/SoPat712/allstarr/issues/2#issuecomment-3873507535) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-3. 🎉 Merged PR [#248333](https://github.com/Homebrew/homebrew-cask/pull/248333) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-4. 💪 Opened PR [#248333](https://github.com/Homebrew/homebrew-cask/pull/248333) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-5. ❗ Opened issue [#2168](https://github.com/Freika/dawarich/issues/2168) in [Freika/dawarich](https://github.com/Freika/dawarich)
+1. 🔒 Closed issue [#2](https://github.com/SoPat712/allstarr/issues/2) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+2. 🗣 Commented on [#2](https://github.com/SoPat712/allstarr/issues/2#issuecomment-3873898700) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+3. 🗣 Commented on [#2](https://github.com/SoPat712/allstarr/issues/2#issuecomment-3873507535) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+4. 🎉 Merged PR [#248333](https://github.com/Homebrew/homebrew-cask/pull/248333) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+5. 💪 Opened PR [#248333](https://github.com/Homebrew/homebrew-cask/pull/248333) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

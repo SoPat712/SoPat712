@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/SoPat712/allstarr/issues/3) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-2. 🗣 Commented on [#3](https://github.com/SoPat712/allstarr/issues/3#issuecomment-3906065345) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-3. 🔒 Closed issue [#8](https://github.com/bransoned/octo-fiestarr/issues/8) in [bransoned/octo-fiestarr](https://github.com/bransoned/octo-fiestarr)
-4. 🔒 Closed issue [#2](https://github.com/SoPat712/allstarr/issues/2) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-5. 🗣 Commented on [#2](https://github.com/SoPat712/allstarr/issues/2#issuecomment-3873898700) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+1. 🗣 Commented on [#7](https://github.com/SoPat712/allstarr/issues/7#issuecomment-3923700221) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+2. 🗣 Commented on [#6](https://github.com/SoPat712/allstarr/issues/6#issuecomment-3923690348) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+3. 🗣 Commented on [#5](https://github.com/SoPat712/allstarr/issues/5#issuecomment-3923681871) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+4. 🔒 Closed issue [#3](https://github.com/SoPat712/allstarr/issues/3) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+5. 🗣 Commented on [#3](https://github.com/SoPat712/allstarr/issues/3#issuecomment-3906065345) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

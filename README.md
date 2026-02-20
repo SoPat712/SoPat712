@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1285](https://github.com/gitbobobo/StreamMusic/issues/1285) in [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic)
-2. ❗ Opened issue [#1285](https://github.com/gitbobobo/StreamMusic/issues/1285) in [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic)
-3. 🗣 Commented on [#5](https://github.com/SoPat712/allstarr/issues/5#issuecomment-3923904426) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-4. 🗣 Commented on [#7](https://github.com/SoPat712/allstarr/issues/7#issuecomment-3923700221) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-5. 🗣 Commented on [#6](https://github.com/SoPat712/allstarr/issues/6#issuecomment-3923690348) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+1. 🗣 Commented on [#5](https://github.com/SoPat712/allstarr/issues/5#issuecomment-3931952882) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+2. 🔒 Closed issue [#5](https://github.com/SoPat712/allstarr/issues/5) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+3. ℹ️ Labeled issue [#5](https://github.com/SoPat712/allstarr/issues/5) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+4. ℹ️ Assigned issue [#5](https://github.com/SoPat712/allstarr/issues/5) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+5. ℹ️ Assigned issue [#6](https://github.com/SoPat712/allstarr/issues/6) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

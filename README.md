@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/SoPat712/videospeed/issues/3#issuecomment-4101608971) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
-2. 🗣 Commented on [#115](https://github.com/V1ck3s/octo-fiesta/issues/115#issuecomment-4088119371) in [V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta)
-3. 🔒 Closed issue [#8](https://github.com/SoPat712/allstarr/issues/8) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-4. 🗣 Commented on [#8](https://github.com/SoPat712/allstarr/issues/8#issuecomment-4040050859) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-5. 🔓 Reopened issue [#8](https://github.com/SoPat712/allstarr/issues/8) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+1. 🗣 Commented on [#3](https://github.com/SoPat712/videospeed/issues/3#issuecomment-4103595753) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+2. 🚀 Published release [v3.0.0](https://github.com/SoPat712/videospeed/releases/tag/v3.0.0) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+3. 🗣 Commented on [#3](https://github.com/SoPat712/videospeed/issues/3#issuecomment-4101608971) in [SoPat712/videospeed](https://github.com/SoPat712/videospeed)
+4. 🗣 Commented on [#115](https://github.com/V1ck3s/octo-fiesta/issues/115#issuecomment-4088119371) in [V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta)
+5. 🔒 Closed issue [#8](https://github.com/SoPat712/allstarr/issues/8) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

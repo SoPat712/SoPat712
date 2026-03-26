@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/SoPat712/Speeder/issues/8#issuecomment-4137038449) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-2. 🗣 Commented on [#8](https://github.com/SoPat712/Speeder/issues/8#issuecomment-4137004443) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-3. 🗣 Commented on [#8](https://github.com/SoPat712/Speeder/issues/8#issuecomment-4136694103) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-4. 🗣 Commented on [#8](https://github.com/SoPat712/Speeder/issues/8#issuecomment-4136563635) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-5. 🔒 Closed issue [#11](https://github.com/SoPat712/allstarr/issues/11) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+1. 🔒 Closed issue [#994](https://github.com/johansan/notebook-navigator/issues/994) in [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator)
+2. 🗣 Commented on [#994](https://github.com/johansan/notebook-navigator/issues/994#issuecomment-4137425075) in [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator)
+3. ℹ️ Labeled issue [#994](https://github.com/johansan/notebook-navigator/issues/994) in [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator)
+4. ❗ Opened issue [#994](https://github.com/johansan/notebook-navigator/issues/994) in [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator)
+5. ℹ️ Labeled issue [#8](https://github.com/SoPat712/Speeder/issues/8) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

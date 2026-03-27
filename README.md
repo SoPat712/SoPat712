@@ -45,9 +45,9 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled issue [#8](https://github.com/SoPat712/Speeder/issues/8) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-2. 🗣 Commented on [#8](https://github.com/SoPat712/Speeder/issues/8#issuecomment-4138837269) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-3. ℹ️ Labeled issue [#6](https://github.com/SoPat712/Speeder/issues/6) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+1. 🗣 Commented on [#10](https://github.com/SoPat712/Speeder/issues/10#issuecomment-4139950213) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+2. ℹ️ Unlabeled issue [#8](https://github.com/SoPat712/Speeder/issues/8) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+3. 🗣 Commented on [#8](https://github.com/SoPat712/Speeder/issues/8#issuecomment-4138837269) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
 4. ℹ️ Labeled issue [#6](https://github.com/SoPat712/Speeder/issues/6) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
 5. ℹ️ Labeled issue [#6](https://github.com/SoPat712/Speeder/issues/6) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
 <!--END_SECTION:activity-->

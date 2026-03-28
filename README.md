@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/SoPat712/Speeder/issues/8) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-2. 🗣 Commented on [#8](https://github.com/SoPat712/Speeder/issues/8#issuecomment-4148225508) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-3. ❗ Opened issue [#19](https://github.com/SoPat712/Speeder/issues/19) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-4. 🗣 Commented on [#18](https://github.com/SoPat712/Speeder/issues/18#issuecomment-4148137884) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-5. 🗣 Commented on [#16](https://github.com/SoPat712/Speeder/issues/16#issuecomment-4148122096) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+1. 🗣 Commented on [#19](https://github.com/SoPat712/Speeder/issues/19#issuecomment-4148282665) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+2. 🔒 Closed issue [#19](https://github.com/SoPat712/Speeder/issues/19) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+3. 🗣 Commented on [#13](https://github.com/SoPat712/Speeder/issues/13#issuecomment-4148279706) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+4. 🔒 Closed issue [#13](https://github.com/SoPat712/Speeder/issues/13) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+5. ℹ️ Assigned issue [#13](https://github.com/SoPat712/Speeder/issues/13) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

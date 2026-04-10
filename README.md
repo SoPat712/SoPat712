@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#14](https://github.com/SoPat712/allstarr/issues/14) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-2. 🔒 Closed issue [#14](https://github.com/SoPat712/allstarr/issues/14) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-3. 🗣 Commented on [#14](https://github.com/SoPat712/allstarr/issues/14#issuecomment-4217495701) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-4. 🗣 Commented on [#31](https://github.com/SoPat712/Speeder/issues/31#issuecomment-4217234728) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-5. 🗣 Commented on [#32](https://github.com/SoPat712/Speeder/issues/32#issuecomment-4217233803) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+1. 🗣 Commented on [#31](https://github.com/SoPat712/Speeder/issues/31#issuecomment-4226254959) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+2. 🔓 Reopened issue [#14](https://github.com/SoPat712/allstarr/issues/14) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+3. 🔒 Closed issue [#14](https://github.com/SoPat712/allstarr/issues/14) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+4. 🗣 Commented on [#14](https://github.com/SoPat712/allstarr/issues/14#issuecomment-4217495701) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+5. 🗣 Commented on [#31](https://github.com/SoPat712/Speeder/issues/31#issuecomment-4217234728) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#34](https://github.com/SoPat712/Speeder/pull/34) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-2. 🗣 Commented on [#7](https://github.com/patricktr/NoLongerEvil-HomeAssistant/issues/7#issuecomment-4255362312) in [patricktr/NoLongerEvil-HomeAssistant](https://github.com/patricktr/NoLongerEvil-HomeAssistant)
-3. 🗣 Commented on [#33](https://github.com/SoPat712/Speeder/issues/33#issuecomment-4240442258) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-4. 🔒 Closed issue [#33](https://github.com/SoPat712/Speeder/issues/33) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-5. 🗣 Commented on [#33](https://github.com/SoPat712/Speeder/issues/33#issuecomment-4233179862) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+1. ℹ️ Labeled issue [#1](https://github.com/SoPat712/BeReal-Export-Manager/issues/1) in [SoPat712/BeReal-Export-Manager](https://github.com/SoPat712/BeReal-Export-Manager)
+2. ℹ️ Assigned issue [#1](https://github.com/SoPat712/BeReal-Export-Manager/issues/1) in [SoPat712/BeReal-Export-Manager](https://github.com/SoPat712/BeReal-Export-Manager)
+3. 🗣 Commented on [#1](https://github.com/SoPat712/BeReal-Export-Manager/issues/1#issuecomment-4291108989) in [SoPat712/BeReal-Export-Manager](https://github.com/SoPat712/BeReal-Export-Manager)
+4. ℹ️ Assigned PR [#34](https://github.com/SoPat712/Speeder/pull/34) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+5. 🗣 Commented on [#7](https://github.com/patricktr/NoLongerEvil-HomeAssistant/issues/7#issuecomment-4255362312) in [patricktr/NoLongerEvil-HomeAssistant](https://github.com/patricktr/NoLongerEvil-HomeAssistant)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

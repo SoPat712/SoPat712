@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/lazerleif/degoog-maps/issues/1) in [lazerleif/degoog-maps](https://github.com/lazerleif/degoog-maps)
-2. 🗣 Commented on [#1](https://github.com/lazerleif/degoog-maps/issues/1#issuecomment-4306158687) in [lazerleif/degoog-maps](https://github.com/lazerleif/degoog-maps)
-3. ℹ️ Labeled issue [#1](https://github.com/SoPat712/BeReal-Export-Manager/issues/1) in [SoPat712/BeReal-Export-Manager](https://github.com/SoPat712/BeReal-Export-Manager)
-4. ℹ️ Assigned issue [#1](https://github.com/SoPat712/BeReal-Export-Manager/issues/1) in [SoPat712/BeReal-Export-Manager](https://github.com/SoPat712/BeReal-Export-Manager)
-5. 🗣 Commented on [#1](https://github.com/SoPat712/BeReal-Export-Manager/issues/1#issuecomment-4291108989) in [SoPat712/BeReal-Export-Manager](https://github.com/SoPat712/BeReal-Export-Manager)
+1. 🔓 Reopened issue [#19](https://github.com/SoPat712/allstarr/issues/19) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+2. 🔒 Closed issue [#19](https://github.com/SoPat712/allstarr/issues/19) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+3. ℹ️ Labeled issue [#19](https://github.com/SoPat712/allstarr/issues/19) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+4. ❗ Opened issue [#19](https://github.com/SoPat712/allstarr/issues/19) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+5. ℹ️ Assigned issue [#19](https://github.com/SoPat712/allstarr/issues/19) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

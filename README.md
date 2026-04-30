@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5580](https://github.com/lwouis/alt-tab-macos/issues/5580#issuecomment-4349411799) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
-2. 🔒 Closed issue [#97](https://github.com/fccview/degoog/issues/97) in [fccview/degoog](https://github.com/fccview/degoog)
-3. 🗣 Commented on [#97](https://github.com/fccview/degoog/issues/97#issuecomment-4324927487) in [fccview/degoog](https://github.com/fccview/degoog)
-4. ℹ️ Labeled issue [#97](https://github.com/fccview/degoog/issues/97) in [fccview/degoog](https://github.com/fccview/degoog)
-5. ❗ Opened issue [#97](https://github.com/fccview/degoog/issues/97) in [fccview/degoog](https://github.com/fccview/degoog)
+1. ℹ️ Labeled issue [#35](https://github.com/SoPat712/Speeder/issues/35) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+2. ℹ️ Labeled issue [#35](https://github.com/SoPat712/Speeder/issues/35) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+3. ℹ️ Assigned issue [#35](https://github.com/SoPat712/Speeder/issues/35) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+4. 🗣 Commented on [#212](https://github.com/codebicycle/videospeed/issues/212#issuecomment-4355699270) in [codebicycle/videospeed](https://github.com/codebicycle/videospeed)
+5. 🗣 Commented on [#5580](https://github.com/lwouis/alt-tab-macos/issues/5580#issuecomment-4349411799) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

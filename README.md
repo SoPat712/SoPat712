@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#97](https://github.com/fccview/degoog/issues/97) in [fccview/degoog](https://github.com/fccview/degoog)
-2. 🗣 Commented on [#97](https://github.com/fccview/degoog/issues/97#issuecomment-4324927487) in [fccview/degoog](https://github.com/fccview/degoog)
-3. ℹ️ Labeled issue [#97](https://github.com/fccview/degoog/issues/97) in [fccview/degoog](https://github.com/fccview/degoog)
-4. ❗ Opened issue [#97](https://github.com/fccview/degoog/issues/97) in [fccview/degoog](https://github.com/fccview/degoog)
-5. 🗣 Commented on [#35](https://github.com/SoPat712/Speeder/issues/35#issuecomment-4322426019) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+1. 🗣 Commented on [#5580](https://github.com/lwouis/alt-tab-macos/issues/5580#issuecomment-4349411799) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
+2. 🔒 Closed issue [#97](https://github.com/fccview/degoog/issues/97) in [fccview/degoog](https://github.com/fccview/degoog)
+3. 🗣 Commented on [#97](https://github.com/fccview/degoog/issues/97#issuecomment-4324927487) in [fccview/degoog](https://github.com/fccview/degoog)
+4. ℹ️ Labeled issue [#97](https://github.com/fccview/degoog/issues/97) in [fccview/degoog](https://github.com/fccview/degoog)
+5. ❗ Opened issue [#97](https://github.com/fccview/degoog/issues/97) in [fccview/degoog](https://github.com/fccview/degoog)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

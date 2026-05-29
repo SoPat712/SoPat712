@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2](https://github.com/SoPat712/degoog-toolkit/issues/2) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-2. ℹ️ Assigned issue [#2](https://github.com/SoPat712/degoog-toolkit/issues/2) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-3. 🔒 Closed issue [#19](https://github.com/SoPat712/allstarr/issues/19) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-4. 🔒 Closed issue [#83](https://github.com/Viperinius/jellyfin-plugin-spotify-import/issues/83) in [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import)
-5. 🗣 Commented on [#83](https://github.com/Viperinius/jellyfin-plugin-spotify-import/issues/83#issuecomment-4571018848) in [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import)
+1. 🔒 Closed issue [#35](https://github.com/SoPat712/Speeder/issues/35) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+2. 🗣 Commented on [#35](https://github.com/SoPat712/Speeder/issues/35#issuecomment-4579081855) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+3. ℹ️ Labeled issue [#2](https://github.com/SoPat712/degoog-toolkit/issues/2) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+4. ℹ️ Assigned issue [#2](https://github.com/SoPat712/degoog-toolkit/issues/2) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+5. 🔒 Closed issue [#19](https://github.com/SoPat712/allstarr/issues/19) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

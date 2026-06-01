@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SoPat712/obsidian-intelligent-linking/pull/1#issuecomment-4585620310) in [SoPat712/obsidian-intelligent-linking](https://github.com/SoPat712/obsidian-intelligent-linking)
-2. 🗣 Commented on [#2](https://github.com/SoPat712/degoog-toolkit/issues/2#issuecomment-4585604102) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-3. 🔒 Closed issue [#35](https://github.com/SoPat712/Speeder/issues/35) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-4. 🗣 Commented on [#35](https://github.com/SoPat712/Speeder/issues/35#issuecomment-4579081855) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-5. ℹ️ Labeled issue [#2](https://github.com/SoPat712/degoog-toolkit/issues/2) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+1. 🗣 Commented on [#159](https://github.com/degoog-org/degoog/issues/159#issuecomment-4593074544) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+2. 🔒 Closed issue [#159](https://github.com/degoog-org/degoog/issues/159) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+3. ℹ️ Labeled issue [#159](https://github.com/degoog-org/degoog/issues/159) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+4. ❗ Opened issue [#159](https://github.com/degoog-org/degoog/issues/159) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+5. 🗣 Commented on [#1](https://github.com/SoPat712/obsidian-intelligent-linking/pull/1#issuecomment-4585620310) in [SoPat712/obsidian-intelligent-linking](https://github.com/SoPat712/obsidian-intelligent-linking)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

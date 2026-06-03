@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#3](https://github.com/SoPat712/degoog-toolkit/issues/3) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+1. ❗ Opened issue [#85](https://github.com/Viperinius/jellyfin-plugin-spotify-import/issues/85) in [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import)
 2. ℹ️ Labeled issue [#3](https://github.com/SoPat712/degoog-toolkit/issues/3) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-3. ℹ️ Assigned issue [#3](https://github.com/SoPat712/degoog-toolkit/issues/3) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-4. 🗣 Commented on [#3](https://github.com/SoPat712/degoog-toolkit/issues/3#issuecomment-4608595869) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-5. 🗣 Commented on [#3](https://github.com/SoPat712/degoog-toolkit/issues/3#issuecomment-4608504834) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+3. ℹ️ Labeled issue [#3](https://github.com/SoPat712/degoog-toolkit/issues/3) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+4. ℹ️ Assigned issue [#3](https://github.com/SoPat712/degoog-toolkit/issues/3) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+5. 🗣 Commented on [#3](https://github.com/SoPat712/degoog-toolkit/issues/3#issuecomment-4608595869) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

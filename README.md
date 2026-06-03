@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/SoPat712/degoog-toolkit/issues/2) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-2. 🗣 Commented on [#2](https://github.com/SoPat712/degoog-toolkit/issues/2#issuecomment-4603733388) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-3. 🗣 Commented on [#760](https://github.com/ReagentX/imessage-exporter/issues/760#issuecomment-4597108487) in [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter)
-4. ❗ Opened issue [#760](https://github.com/ReagentX/imessage-exporter/issues/760) in [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter)
-5. ℹ️ Labeled issue [#14864](https://github.com/community-scripts/ProxmoxVE/issues/14864) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+1. ℹ️ Labeled issue [#3](https://github.com/SoPat712/degoog-toolkit/issues/3) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+2. ℹ️ Labeled issue [#3](https://github.com/SoPat712/degoog-toolkit/issues/3) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+3. ℹ️ Assigned issue [#3](https://github.com/SoPat712/degoog-toolkit/issues/3) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+4. 🗣 Commented on [#3](https://github.com/SoPat712/degoog-toolkit/issues/3#issuecomment-4608595869) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+5. 🗣 Commented on [#3](https://github.com/SoPat712/degoog-toolkit/issues/3#issuecomment-4608504834) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

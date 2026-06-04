@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/mahdi-salmanzade/odysseus-mobile/issues/1) in [mahdi-salmanzade/odysseus-mobile](https://github.com/mahdi-salmanzade/odysseus-mobile)
-2. 🗣 Commented on [#2](https://github.com/SoPat712/degoog-toolkit/issues/2#issuecomment-4622615055) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-3. 🔓 Reopened issue [#2](https://github.com/SoPat712/degoog-toolkit/issues/2) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-4. 🗣 Commented on [#2](https://github.com/SoPat712/degoog-toolkit/issues/2#issuecomment-4622613214) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-5. ❗ Opened issue [#85](https://github.com/Viperinius/jellyfin-plugin-spotify-import/issues/85) in [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import)
+1. 🗣 Commented on [#1480](https://github.com/pewdiepie-archdaemon/odysseus/pull/1480#issuecomment-4625440881) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+2. 🔒 Closed issue [#2](https://github.com/SoPat712/degoog-toolkit/issues/2) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+3. 🗣 Commented on [#2](https://github.com/SoPat712/degoog-toolkit/issues/2#issuecomment-4625928783) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+4. 🗣 Commented on [#1480](https://github.com/pewdiepie-archdaemon/odysseus/pull/1480#issuecomment-4625478391) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+5. ❗ Opened issue [#1](https://github.com/mahdi-salmanzade/odysseus-mobile/issues/1) in [mahdi-salmanzade/odysseus-mobile](https://github.com/mahdi-salmanzade/odysseus-mobile)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

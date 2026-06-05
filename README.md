@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1480](https://github.com/pewdiepie-archdaemon/odysseus/pull/1480#issuecomment-4625440881) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-2. 🔒 Closed issue [#2](https://github.com/SoPat712/degoog-toolkit/issues/2) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-3. 🗣 Commented on [#2](https://github.com/SoPat712/degoog-toolkit/issues/2#issuecomment-4625928783) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-4. 🗣 Commented on [#1480](https://github.com/pewdiepie-archdaemon/odysseus/pull/1480#issuecomment-4625478391) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-5. ❗ Opened issue [#1](https://github.com/mahdi-salmanzade/odysseus-mobile/issues/1) in [mahdi-salmanzade/odysseus-mobile](https://github.com/mahdi-salmanzade/odysseus-mobile)
+1. 🗣 Commented on [#367](https://github.com/Apollo-Reborn/Apollo-Reborn/issues/367#issuecomment-4627361743) in [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)
+2. 🗣 Commented on [#367](https://github.com/Apollo-Reborn/Apollo-Reborn/issues/367#issuecomment-4627308632) in [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)
+3. 🗣 Commented on [#367](https://github.com/Apollo-Reborn/Apollo-Reborn/issues/367#issuecomment-4627290479) in [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)
+4. 🗣 Commented on [#367](https://github.com/Apollo-Reborn/Apollo-Reborn/issues/367#issuecomment-4627232758) in [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)
+5. 🗣 Commented on [#367](https://github.com/Apollo-Reborn/Apollo-Reborn/issues/367#issuecomment-4627204712) in [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

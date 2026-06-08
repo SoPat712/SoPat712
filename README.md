@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#367](https://github.com/Apollo-Reborn/Apollo-Reborn/issues/367#issuecomment-4635828249) in [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)
-2. 🗣 Commented on [#367](https://github.com/Apollo-Reborn/Apollo-Reborn/issues/367#issuecomment-4628812678) in [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)
-3. 🗣 Commented on [#367](https://github.com/Apollo-Reborn/Apollo-Reborn/issues/367#issuecomment-4627361743) in [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)
-4. 🗣 Commented on [#367](https://github.com/Apollo-Reborn/Apollo-Reborn/issues/367#issuecomment-4627308632) in [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)
-5. 🗣 Commented on [#367](https://github.com/Apollo-Reborn/Apollo-Reborn/issues/367#issuecomment-4627290479) in [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)
+1. ℹ️ Labeled issue [#37](https://github.com/SoPat712/Speeder/issues/37) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+2. ℹ️ Labeled issue [#37](https://github.com/SoPat712/Speeder/issues/37) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+3. ℹ️ Assigned issue [#37](https://github.com/SoPat712/Speeder/issues/37) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+4. 🗣 Commented on [#37](https://github.com/SoPat712/Speeder/issues/37#issuecomment-4644780592) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+5. 🗣 Commented on [#367](https://github.com/Apollo-Reborn/Apollo-Reborn/issues/367#issuecomment-4635828249) in [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

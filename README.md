@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#37](https://github.com/SoPat712/Speeder/issues/37) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-2. ℹ️ Labeled issue [#37](https://github.com/SoPat712/Speeder/issues/37) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-3. ℹ️ Assigned issue [#37](https://github.com/SoPat712/Speeder/issues/37) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-4. 🗣 Commented on [#37](https://github.com/SoPat712/Speeder/issues/37#issuecomment-4644780592) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-5. 🗣 Commented on [#367](https://github.com/Apollo-Reborn/Apollo-Reborn/issues/367#issuecomment-4635828249) in [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)
+1. ❗ Opened issue [#3890](https://github.com/pewdiepie-archdaemon/odysseus/issues/3890) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+2. ❗ Opened issue [#3889](https://github.com/pewdiepie-archdaemon/odysseus/issues/3889) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+3. ❗ Opened issue [#3888](https://github.com/pewdiepie-archdaemon/odysseus/issues/3888) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+4. 💪 Opened PR [#3887](https://github.com/pewdiepie-archdaemon/odysseus/pull/3887) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+5. 💪 Opened PR [#3886](https://github.com/pewdiepie-archdaemon/odysseus/pull/3886) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#307](https://github.com/buo/homebrew-cask-upgrade/pull/307#issuecomment-4696006152) in [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade)
-2. 💪 Opened PR [#3960](https://github.com/pewdiepie-archdaemon/odysseus/pull/3960) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-3. ❗ Opened issue [#3959](https://github.com/pewdiepie-archdaemon/odysseus/issues/3959) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-4. ❗ Opened issue [#3890](https://github.com/pewdiepie-archdaemon/odysseus/issues/3890) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-5. ❗ Opened issue [#3889](https://github.com/pewdiepie-archdaemon/odysseus/issues/3889) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+1. 🗣 Commented on [#4](https://github.com/SoPat712/degoog-toolkit/issues/4#issuecomment-4697250246) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+2. 🗣 Commented on [#5](https://github.com/SoPat712/degoog-toolkit/issues/5#issuecomment-4697247668) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+3. 🔒 Closed issue [#21](https://github.com/SoPat712/allstarr/issues/21) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+4. ℹ️ Labeled issue [#21](https://github.com/SoPat712/allstarr/issues/21) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+5. ℹ️ Unlabeled issue [#21](https://github.com/SoPat712/allstarr/issues/21) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

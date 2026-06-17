@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#269988](https://github.com/Homebrew/homebrew-cask/pull/269988) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 🗣 Commented on [#3887](https://github.com/pewdiepie-archdaemon/odysseus/pull/3887#issuecomment-4709921096) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-3. 🎉 Merged PR [#3960](https://github.com/pewdiepie-archdaemon/odysseus/pull/3960) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-4. 🎉 Merged PR [#3885](https://github.com/pewdiepie-archdaemon/odysseus/pull/3885) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-5. 🎉 Merged PR [#3886](https://github.com/pewdiepie-archdaemon/odysseus/pull/3886) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+1. 🎉 Merged PR [#269988](https://github.com/Homebrew/homebrew-cask/pull/269988) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 🗣 Commented on [#4442](https://github.com/pewdiepie-archdaemon/odysseus/pull/4442#issuecomment-4724339567) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+3. 💪 Opened PR [#269988](https://github.com/Homebrew/homebrew-cask/pull/269988) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+4. 🗣 Commented on [#3887](https://github.com/pewdiepie-archdaemon/odysseus/pull/3887#issuecomment-4709921096) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+5. 🎉 Merged PR [#3960](https://github.com/pewdiepie-archdaemon/odysseus/pull/3960) in [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

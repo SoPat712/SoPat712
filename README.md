@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/SoPat712/degoog-toolkit/issues/5#issuecomment-4736964356) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-2. 🗣 Commented on [#4](https://github.com/SoPat712/degoog-toolkit/issues/4#issuecomment-4736963800) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-3. 🗣 Commented on [#74](https://github.com/chkpwd/alfred-ente-auth/pull/74#issuecomment-4794476454) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
-4. 🎉 Merged PR [#72](https://github.com/chkpwd/alfred-ente-auth/pull/72) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
-5. 🎉 Merged PR [#75](https://github.com/chkpwd/alfred-ente-auth/pull/75) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
+1. 🗣 Commented on [#1416](https://github.com/element-hq/element-x-ios/issues/1416#issuecomment-4845253780) in [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios)
+2. 🗣 Commented on [#5](https://github.com/SoPat712/degoog-toolkit/issues/5#issuecomment-4736964356) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+3. 🗣 Commented on [#4](https://github.com/SoPat712/degoog-toolkit/issues/4#issuecomment-4736963800) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+4. 🗣 Commented on [#74](https://github.com/chkpwd/alfred-ente-auth/pull/74#issuecomment-4794476454) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
+5. 🎉 Merged PR [#72](https://github.com/chkpwd/alfred-ente-auth/pull/72) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

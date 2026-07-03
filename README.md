@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#219](https://github.com/degoog-org/degoog/issues/219) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-2. ❗ Opened issue [#219](https://github.com/degoog-org/degoog/issues/219) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-3. 🗣 Commented on [#85](https://github.com/Viperinius/jellyfin-plugin-spotify-import/issues/85#issuecomment-4867886392) in [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import)
-4. 🗣 Commented on [#4](https://github.com/SoPat712/degoog-toolkit/issues/4#issuecomment-4736963800) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-5. 🗣 Commented on [#74](https://github.com/chkpwd/alfred-ente-auth/pull/74#issuecomment-4794476454) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
+1. ℹ️ Labeled issue [#221](https://github.com/degoog-org/degoog/issues/221) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+2. ❗ Opened issue [#221](https://github.com/degoog-org/degoog/issues/221) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+3. ℹ️ Labeled issue [#220](https://github.com/degoog-org/degoog/issues/220) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+4. ❗ Opened issue [#220](https://github.com/degoog-org/degoog/issues/220) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+5. ℹ️ Labeled issue [#219](https://github.com/degoog-org/degoog/issues/219) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

@@ -45,9 +45,9 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/Viperinius/jellyfin-plugin-spotify-import/issues/85#issuecomment-4867886392) in [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import)
-2. 🗣 Commented on [#1416](https://github.com/element-hq/element-x-ios/issues/1416#issuecomment-4845253780) in [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios)
-3. 🗣 Commented on [#5](https://github.com/SoPat712/degoog-toolkit/issues/5#issuecomment-4736964356) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+1. ℹ️ Labeled issue [#219](https://github.com/degoog-org/degoog/issues/219) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+2. ❗ Opened issue [#219](https://github.com/degoog-org/degoog/issues/219) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+3. 🗣 Commented on [#85](https://github.com/Viperinius/jellyfin-plugin-spotify-import/issues/85#issuecomment-4867886392) in [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import)
 4. 🗣 Commented on [#4](https://github.com/SoPat712/degoog-toolkit/issues/4#issuecomment-4736963800) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
 5. 🗣 Commented on [#74](https://github.com/chkpwd/alfred-ente-auth/pull/74#issuecomment-4794476454) in [chkpwd/alfred-ente-auth](https://github.com/chkpwd/alfred-ente-auth)
 <!--END_SECTION:activity-->

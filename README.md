@@ -45,11 +45,11 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#221](https://github.com/degoog-org/degoog/issues/221) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-2. ❗ Opened issue [#221](https://github.com/degoog-org/degoog/issues/221) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-3. ℹ️ Labeled issue [#220](https://github.com/degoog-org/degoog/issues/220) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-4. ❗ Opened issue [#220](https://github.com/degoog-org/degoog/issues/220) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-5. ℹ️ Labeled issue [#219](https://github.com/degoog-org/degoog/issues/219) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+1. 🗣 Commented on [#219](https://github.com/degoog-org/degoog/issues/219#issuecomment-4878870425) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+2. 🗣 Commented on [#220](https://github.com/degoog-org/degoog/issues/220#issuecomment-4878819106) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+3. ℹ️ Labeled issue [#221](https://github.com/degoog-org/degoog/issues/221) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+4. ❗ Opened issue [#221](https://github.com/degoog-org/degoog/issues/221) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+5. ℹ️ Labeled issue [#220](https://github.com/degoog-org/degoog/issues/220) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

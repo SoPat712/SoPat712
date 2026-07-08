@@ -4,17 +4,14 @@
 
 ## A little about me! 
 
-I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
+I'm Josh! I like to make things for myself and sometimes other people!
 
-- 👨‍💻 I'm currently playing around with Svelte and Typescript for a bunch of cool websites!
+- 👨‍💻 I'm currently super into self-hosting!
+- 🧰 I'm making [degoog-toolkit](https://github.com/SoPat712/degoog-toolkit) to try and empower as many people as possible to start hosting their own search! I hope you take a look!
 - 🎼 Check out [this game](https://maisie-peters-heardle.joshpatra.me) for some fun! I made it extensible so you can modify it for any artist!
 - 🤖 I primarily code in Java and Dart with the Flutter SDK for Android Development.
 - 🌱 Right now I'm learning Docker, K8s, Proxmox, ESXi and a bunch of networking stuff.
-- 🌐 [My portfolio](https://joshpatra.me)
-- 📝 [My resume](https://cloud.joshpatra.me/s/7TcAf4FfwEiXcrF/preview)
-<a href="https://www.linkedin.com/in/joshpatra/">
-  <img align="left" alt="Josh's LinkedIn" width="30px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=10&g=102&b=194" />
-</a>
+- 📧 You can reach me at joshpatra12@gmail.com!
 
 <br /> 
 <br /> 

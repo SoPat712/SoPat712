@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/itschasa/speedrr/issues/32#issuecomment-4918266903) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
-2. 🗣 Commented on [#33](https://github.com/itschasa/speedrr/issues/33#issuecomment-4918244371) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
-3. 🗣 Commented on [#35](https://github.com/itschasa/speedrr/issues/35#issuecomment-4918243237) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
-4. 💪 Opened PR [#21](https://github.com/degoog-org/official-extensions/pull/21) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
-5. 🗣 Commented on [#22](https://github.com/SoPat712/allstarr/issues/22#issuecomment-4884415305) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+1. ❌ Closed PR [#1](https://github.com/SoPat712/obsidian-intelligent-linking/pull/1) in [SoPat712/obsidian-intelligent-linking](https://github.com/SoPat712/obsidian-intelligent-linking)
+2. 🗣 Commented on [#1](https://github.com/SoPat712/obsidian-intelligent-linking/pull/1#issuecomment-4918424512) in [SoPat712/obsidian-intelligent-linking](https://github.com/SoPat712/obsidian-intelligent-linking)
+3. 🗣 Commented on [#11](https://github.com/itschasa/speedrr/issues/11#issuecomment-4918297425) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
+4. 🗣 Commented on [#25](https://github.com/itschasa/speedrr/issues/25#issuecomment-4918283038) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
+5. 🗣 Commented on [#30](https://github.com/itschasa/speedrr/issues/30#issuecomment-4918273041) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

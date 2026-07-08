@@ -45,9 +45,9 @@ I'm Josh Patra. I study Computer Science and Philosophy at Rutgers University.
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/degoog-org/official-extensions/pull/22) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
-2. 💪 Opened PR [#22](https://github.com/degoog-org/official-extensions/pull/22) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
-3. ❌ Closed PR [#21](https://github.com/degoog-org/official-extensions/pull/21) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
+1. 🗣 Commented on [#32](https://github.com/itschasa/speedrr/issues/32#issuecomment-4918266903) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
+2. 🗣 Commented on [#33](https://github.com/itschasa/speedrr/issues/33#issuecomment-4918244371) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
+3. 🗣 Commented on [#35](https://github.com/itschasa/speedrr/issues/35#issuecomment-4918243237) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
 4. 💪 Opened PR [#21](https://github.com/degoog-org/official-extensions/pull/21) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
 5. 🗣 Commented on [#22](https://github.com/SoPat712/allstarr/issues/22#issuecomment-4884415305) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
 <!--END_SECTION:activity-->

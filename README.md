@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#11](https://github.com/NicholasSlattery/sony-head-tracker/issues/11) in [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker)
-2. ❗ Opened issue [#11](https://github.com/NicholasSlattery/sony-head-tracker/issues/11) in [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker)
-3. ❌ Closed PR [#1](https://github.com/SoPat712/obsidian-intelligent-linking/pull/1) in [SoPat712/obsidian-intelligent-linking](https://github.com/SoPat712/obsidian-intelligent-linking)
-4. 🗣 Commented on [#1](https://github.com/SoPat712/obsidian-intelligent-linking/pull/1#issuecomment-4918424512) in [SoPat712/obsidian-intelligent-linking](https://github.com/SoPat712/obsidian-intelligent-linking)
-5. 🗣 Commented on [#11](https://github.com/itschasa/speedrr/issues/11#issuecomment-4918297425) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
+1. ❗ Opened issue [#23](https://github.com/degoog-org/official-extensions/issues/23) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
+2. ℹ️ Labeled issue [#11](https://github.com/NicholasSlattery/sony-head-tracker/issues/11) in [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker)
+3. ❗ Opened issue [#11](https://github.com/NicholasSlattery/sony-head-tracker/issues/11) in [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker)
+4. ❌ Closed PR [#1](https://github.com/SoPat712/obsidian-intelligent-linking/pull/1) in [SoPat712/obsidian-intelligent-linking](https://github.com/SoPat712/obsidian-intelligent-linking)
+5. 🗣 Commented on [#1](https://github.com/SoPat712/obsidian-intelligent-linking/pull/1#issuecomment-4918424512) in [SoPat712/obsidian-intelligent-linking](https://github.com/SoPat712/obsidian-intelligent-linking)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

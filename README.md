@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/SoPat712/obsidian-intelligent-linking/pull/1) in [SoPat712/obsidian-intelligent-linking](https://github.com/SoPat712/obsidian-intelligent-linking)
-2. 🗣 Commented on [#1](https://github.com/SoPat712/obsidian-intelligent-linking/pull/1#issuecomment-4918424512) in [SoPat712/obsidian-intelligent-linking](https://github.com/SoPat712/obsidian-intelligent-linking)
-3. 🗣 Commented on [#11](https://github.com/itschasa/speedrr/issues/11#issuecomment-4918297425) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
-4. 🗣 Commented on [#25](https://github.com/itschasa/speedrr/issues/25#issuecomment-4918283038) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
-5. 🗣 Commented on [#30](https://github.com/itschasa/speedrr/issues/30#issuecomment-4918273041) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
+1. ℹ️ Labeled issue [#11](https://github.com/NicholasSlattery/sony-head-tracker/issues/11) in [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker)
+2. ❗ Opened issue [#11](https://github.com/NicholasSlattery/sony-head-tracker/issues/11) in [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker)
+3. ❌ Closed PR [#1](https://github.com/SoPat712/obsidian-intelligent-linking/pull/1) in [SoPat712/obsidian-intelligent-linking](https://github.com/SoPat712/obsidian-intelligent-linking)
+4. 🗣 Commented on [#1](https://github.com/SoPat712/obsidian-intelligent-linking/pull/1#issuecomment-4918424512) in [SoPat712/obsidian-intelligent-linking](https://github.com/SoPat712/obsidian-intelligent-linking)
+5. 🗣 Commented on [#11](https://github.com/itschasa/speedrr/issues/11#issuecomment-4918297425) in [itschasa/speedrr](https://github.com/itschasa/speedrr)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#23](https://github.com/SoPat712/allstarr/issues/23) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+1. 🗣 Commented on [#11](https://github.com/NicholasSlattery/sony-head-tracker/issues/11#issuecomment-4951298503) in [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker)
 2. ℹ️ Labeled issue [#23](https://github.com/SoPat712/allstarr/issues/23) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
 3. ℹ️ Labeled issue [#23](https://github.com/SoPat712/allstarr/issues/23) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
 4. ℹ️ Labeled issue [#23](https://github.com/SoPat712/allstarr/issues/23) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-5. ❗ Opened issue [#23](https://github.com/SoPat712/allstarr/issues/23) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+5. ℹ️ Labeled issue [#23](https://github.com/SoPat712/allstarr/issues/23) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

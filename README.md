@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/SoPat712/degoog-toolkit/issues/9) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-2. 🗣 Commented on [#11](https://github.com/NicholasSlattery/sony-head-tracker/issues/11#issuecomment-4951298503) in [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker)
-3. ℹ️ Labeled issue [#23](https://github.com/SoPat712/allstarr/issues/23) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-4. ℹ️ Labeled issue [#23](https://github.com/SoPat712/allstarr/issues/23) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-5. ℹ️ Labeled issue [#23](https://github.com/SoPat712/allstarr/issues/23) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+1. ℹ️ Labeled issue [#38](https://github.com/SoPat712/Speeder/issues/38) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+2. ℹ️ Assigned issue [#38](https://github.com/SoPat712/Speeder/issues/38) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+3. ℹ️ Labeled issue [#39](https://github.com/SoPat712/Speeder/issues/39) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+4. ℹ️ Labeled issue [#39](https://github.com/SoPat712/Speeder/issues/39) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+5. ℹ️ Assigned issue [#39](https://github.com/SoPat712/Speeder/issues/39) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

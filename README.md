@@ -43,10 +43,10 @@ I'm Josh! I like to make things for myself and sometimes other people!
 
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled issue [#11](https://github.com/SoPat712/degoog-toolkit/issues/11) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-2. 🗣 Commented on [#11](https://github.com/SoPat712/degoog-toolkit/issues/11#issuecomment-5171509558) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-3. 🔒 Closed issue [#12](https://github.com/SoPat712/degoog-toolkit/issues/12) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-4. 🗣 Commented on [#12](https://github.com/SoPat712/degoog-toolkit/issues/12#issuecomment-5171505917) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-5. 🗣 Commented on [#12](https://github.com/SoPat712/degoog-toolkit/issues/12#issuecomment-5170094424) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+2. 🔒 Closed issue [#11](https://github.com/SoPat712/degoog-toolkit/issues/11) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+3. 🗣 Commented on [#11](https://github.com/SoPat712/degoog-toolkit/issues/11#issuecomment-5172250846) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+4. ℹ️ Unlabeled issue [#11](https://github.com/SoPat712/degoog-toolkit/issues/11) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+5. 🗣 Commented on [#11](https://github.com/SoPat712/degoog-toolkit/issues/11#issuecomment-5172183110) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

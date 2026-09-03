@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/SoPat712/degoog-toolkit/issues/13#issuecomment-5524642887) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-2. 🗣 Commented on [#40](https://github.com/SoPat712/Speeder/issues/40#issuecomment-5351487635) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-3. 🔒 Closed issue [#40](https://github.com/SoPat712/Speeder/issues/40) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-4. 🗣 Commented on [#40](https://github.com/SoPat712/Speeder/issues/40#issuecomment-5350276123) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-5. 🗣 Commented on [#40](https://github.com/SoPat712/Speeder/issues/40#issuecomment-5350273894) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+1. 🗣 Commented on [#38](https://github.com/SoPat712/Speeder/issues/38#issuecomment-5528361887) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+2. 🗣 Commented on [#7](https://github.com/SoPat712/degoog-toolkit/issues/7#issuecomment-5528319439) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+3. 🗣 Commented on [#7](https://github.com/SoPat712/degoog-toolkit/issues/7#issuecomment-5528279197) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+4. 🗣 Commented on [#13](https://github.com/SoPat712/degoog-toolkit/issues/13#issuecomment-5524642887) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+5. 🗣 Commented on [#40](https://github.com/SoPat712/Speeder/issues/40#issuecomment-5351487635) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

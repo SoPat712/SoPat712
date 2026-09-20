@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/degoog-org/degoog/issues/220#issuecomment-5741958800) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-2. 🗣 Commented on [#24](https://github.com/SoPat712/allstarr/issues/24#issuecomment-5737395137) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-3. ℹ️ Labeled issue [#24](https://github.com/SoPat712/allstarr/issues/24) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-4. 🗣 Commented on [#24](https://github.com/SoPat712/allstarr/issues/24#issuecomment-5737393164) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-5. 🗣 Commented on [#13](https://github.com/SoPat712/degoog-toolkit/issues/13#issuecomment-5737389666) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+1. 🎉 Merged PR [#310](https://github.com/degoog-org/degoog/pull/310) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+2. 💪 Opened PR [#42](https://github.com/degoog-org/official-extensions/pull/42) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
+3. 💪 Opened PR [#310](https://github.com/degoog-org/degoog/pull/310) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+4. 🗣 Commented on [#220](https://github.com/degoog-org/degoog/issues/220#issuecomment-5741958800) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+5. 🗣 Commented on [#24](https://github.com/SoPat712/allstarr/issues/24#issuecomment-5737395137) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

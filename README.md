@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/SoPat712/allstarr/issues/24#issuecomment-5805227649) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-2. 🚀 Published release [v2.0.4](https://github.com/SoPat712/allstarr/releases/tag/v2.0.4) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-3. 🗣 Commented on [#24](https://github.com/SoPat712/allstarr/issues/24#issuecomment-5804821028) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-4. 🗣 Commented on [#180](https://github.com/aaronpk/Overland-iOS/pull/180#issuecomment-5752311614) in [aaronpk/Overland-iOS](https://github.com/aaronpk/Overland-iOS)
-5. 🎉 Merged PR [#310](https://github.com/degoog-org/degoog/pull/310) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+1. 🎉 Merged PR [#25](https://github.com/SoPat712/allstarr/pull/25) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+2. ℹ️ Labeled issue [#44](https://github.com/SoPat712/Speeder/issues/44) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+3. ℹ️ Assigned issue [#44](https://github.com/SoPat712/Speeder/issues/44) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+4. 🗣 Commented on [#44](https://github.com/SoPat712/Speeder/issues/44#issuecomment-5859707860) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+5. ℹ️ Labeled issue [#43](https://github.com/SoPat712/Speeder/issues/43) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

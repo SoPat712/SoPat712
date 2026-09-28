@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/SoPat712/allstarr/pull/25) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-2. ℹ️ Labeled issue [#44](https://github.com/SoPat712/Speeder/issues/44) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-3. ℹ️ Assigned issue [#44](https://github.com/SoPat712/Speeder/issues/44) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-4. 🗣 Commented on [#44](https://github.com/SoPat712/Speeder/issues/44#issuecomment-5859707860) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-5. ℹ️ Labeled issue [#43](https://github.com/SoPat712/Speeder/issues/43) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+1. 🔒 Closed issue [#24](https://github.com/SoPat712/allstarr/issues/24) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+2. 🎉 Merged PR [#25](https://github.com/SoPat712/allstarr/pull/25) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+3. ℹ️ Labeled issue [#44](https://github.com/SoPat712/Speeder/issues/44) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+4. ℹ️ Assigned issue [#44](https://github.com/SoPat712/Speeder/issues/44) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+5. 🗣 Commented on [#44](https://github.com/SoPat712/Speeder/issues/44#issuecomment-5859707860) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

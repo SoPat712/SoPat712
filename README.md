@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#24](https://github.com/SoPat712/allstarr/issues/24) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-2. 🎉 Merged PR [#25](https://github.com/SoPat712/allstarr/pull/25) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
-3. ℹ️ Labeled issue [#44](https://github.com/SoPat712/Speeder/issues/44) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-4. ℹ️ Assigned issue [#44](https://github.com/SoPat712/Speeder/issues/44) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-5. 🗣 Commented on [#44](https://github.com/SoPat712/Speeder/issues/44#issuecomment-5859707860) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+1. 🗣 Commented on [#16](https://github.com/SoPat712/degoog-toolkit/issues/16#issuecomment-5975051450) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+2. 🗣 Commented on [#15](https://github.com/SoPat712/degoog-toolkit/issues/15#issuecomment-5974949068) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+3. 🗣 Commented on [#23](https://github.com/SoPat712/allstarr/issues/23#issuecomment-5974765600) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+4. 🔒 Closed issue [#24](https://github.com/SoPat712/allstarr/issues/24) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+5. 🎉 Merged PR [#25](https://github.com/SoPat712/allstarr/pull/25) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

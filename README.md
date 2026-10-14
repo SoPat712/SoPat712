@@ -42,10 +42,10 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#16](https://github.com/SoPat712/degoog-toolkit/issues/16) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-2. 🔓 Reopened issue [#15](https://github.com/SoPat712/degoog-toolkit/issues/15) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-3. 🗣 Commented on [#1](https://github.com/segin/arr-monitor/issues/1#issuecomment-6104141094) in [segin/arr-monitor](https://github.com/segin/arr-monitor)
-4. 🔒 Closed issue [#16](https://github.com/SoPat712/degoog-toolkit/issues/16) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+1. 🗣 Commented on [#16](https://github.com/SoPat712/degoog-toolkit/issues/16#issuecomment-6160762574) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+2. 🔓 Reopened issue [#16](https://github.com/SoPat712/degoog-toolkit/issues/16) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+3. 🔓 Reopened issue [#15](https://github.com/SoPat712/degoog-toolkit/issues/15) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+4. 🗣 Commented on [#1](https://github.com/segin/arr-monitor/issues/1#issuecomment-6104141094) in [segin/arr-monitor](https://github.com/segin/arr-monitor)
 5. 🔒 Closed issue [#15](https://github.com/SoPat712/degoog-toolkit/issues/15) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
 <!--END_SECTION:activity-->
 

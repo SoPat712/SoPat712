@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/SoPat712/degoog-toolkit/issues/17#issuecomment-6174687253) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-2. 🗣 Commented on [#16](https://github.com/SoPat712/degoog-toolkit/issues/16#issuecomment-6166972477) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-3. 🗣 Commented on [#18](https://github.com/SoPat712/degoog-toolkit/issues/18#issuecomment-6174686408) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-4. 🗣 Commented on [#15](https://github.com/SoPat712/degoog-toolkit/issues/15#issuecomment-6166960778) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-5. ℹ️ Labeled issue [#18](https://github.com/SoPat712/degoog-toolkit/issues/18) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+1. 🔒 Closed issue [#37](https://github.com/SoPat712/Speeder/issues/37) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+2. ℹ️ Labeled issue [#42](https://github.com/SoPat712/Speeder/issues/42) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+3. ℹ️ Labeled issue [#43](https://github.com/SoPat712/Speeder/issues/43) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+4. ℹ️ Labeled issue [#44](https://github.com/SoPat712/Speeder/issues/44) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+5. 🗣 Commented on [#17](https://github.com/SoPat712/degoog-toolkit/issues/17#issuecomment-6174687253) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

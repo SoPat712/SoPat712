@@ -31,13 +31,13 @@ I'm Josh! I like to make things for myself and sometimes other people!
 
 👨‍💻 **My Top Languages**
 
-[![Josh's GitHub stats-Dark](https://github-readme-stats-taupe-five-18.vercel.app/api/top-langs?username=SoPat712&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true&langs_count=8&layout=donut-vertical&hide=javascript,css,vim%20script,html#gh-dark-mode-only)](https://github.com/SoPat712/github-readme-stats#gh-dark-mode-only)
-[![Josh's GitHub stats-Light](https://github-readme-stats-taupe-five-18.vercel.app/api/top-langs?username=SoPat712&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true&langs_count=8&layout=donut-vertical&hide=javascript,css,vim%20script,html#gh-light-mode-only)](https://github.com/SoPat712/github-readme-stats#gh-light-mode-only)
+[![Josh's GitHub stats-Dark](https://github-stats-extended-one-nu.vercel.app/api/top-langs?username=SoPat712&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true&langs_count=8&layout=donut-vertical&hide=javascript,css,vim%20script,html#gh-dark-mode-only)](https://github.com/SoPat712/github-readme-stats#gh-dark-mode-only)
+[![Josh's GitHub stats-Light](https://github-stats-extended-one-nu.vercel.app/api/top-langs?username=SoPat712&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true&langs_count=8&layout=donut-vertical&hide=javascript,css,vim%20script,html#gh-light-mode-only)](https://github.com/SoPat712/github-readme-stats#gh-light-mode-only)
 
 📈 **My GitHub Stats**
 
-[![Josh's GitHub stats-Dark](https://github-readme-stats-taupe-five-18.vercel.app/api?username=SoPat712&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true&rank_icon=github&hide=contribs#gh-dark-mode-only)](https://github.com/SoPat712/github-readme-stats#gh-dark-mode-only)
-[![Josh's GitHub stats-Light](https://github-readme-stats-taupe-five-18.vercel.app/api?username=SoPat712&show_icons=true&count_private=true&theme=vue&include_all_commits=true&rank_icon=github&hide=contribs#gh-light-mode-only)](https://github.com/SoPat712/github-readme-stats#gh-light-mode-only)
+[![Josh's GitHub stats-Dark](https://github-stats-extended-one-nu.vercel.app/api?username=SoPat712&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true&hide=contribs#gh-dark-mode-only)](https://github.com/SoPat712/github-readme-stats#gh-dark-mode-only)
+[![Josh's GitHub stats-Light](https://github-stats-extended-one-nu.vercel.app/api?username=SoPat712&show_icons=true&count_private=true&theme=vue&include_all_commits=true&hide=contribs#gh-light-mode-only)](https://github.com/SoPat712/github-readme-stats#gh-light-mode-only)
 
 :zap: **Recent Activity**
 

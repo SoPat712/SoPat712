@@ -42,7 +42,7 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#47](https://github.com/SoPat712/Speeder/issues/47) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+1. 💪 Opened PR [#381](https://github.com/degoog-org/degoog/pull/381) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
 2. ℹ️ Labeled issue [#47](https://github.com/SoPat712/Speeder/issues/47) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
 3. ℹ️ Assigned issue [#47](https://github.com/SoPat712/Speeder/issues/47) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
 4. 🗣 Commented on [#47](https://github.com/SoPat712/Speeder/issues/47#issuecomment-6622074587) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)

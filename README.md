@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unassigned PR [#388](https://github.com/degoog-org/degoog/pull/388) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-2. ℹ️ Assigned PR [#388](https://github.com/degoog-org/degoog/pull/388) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-3. ℹ️ Assigned PR [#388](https://github.com/degoog-org/degoog/pull/388) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-4. 🗣 Commented on [#47](https://github.com/SoPat712/Speeder/issues/47#issuecomment-6752663813) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-5. 💪 Opened PR [#388](https://github.com/degoog-org/degoog/pull/388) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+1. 🗣 Commented on [#26](https://github.com/degoog-org/official-extensions/issues/26#issuecomment-6777898253) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
+2. 🔒 Closed issue [#26](https://github.com/degoog-org/official-extensions/issues/26) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
+3. 🎉 Merged PR [#65](https://github.com/degoog-org/official-extensions/pull/65) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
+4. ❌ Closed PR [#66](https://github.com/degoog-org/official-extensions/pull/66) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
+5. 🗣 Commented on [#66](https://github.com/degoog-org/official-extensions/pull/66#issuecomment-6777723275) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

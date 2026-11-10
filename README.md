@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/SoPat712/Speeder/issues/47#issuecomment-6752663813) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
-2. 💪 Opened PR [#388](https://github.com/degoog-org/degoog/pull/388) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-3. 💪 Opened PR [#387](https://github.com/degoog-org/degoog/pull/387) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-4. 💪 Opened PR [#386](https://github.com/degoog-org/degoog/pull/386) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-5. 💪 Opened PR [#66](https://github.com/degoog-org/official-extensions/pull/66) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
+1. ℹ️ Unassigned PR [#388](https://github.com/degoog-org/degoog/pull/388) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+2. ℹ️ Assigned PR [#388](https://github.com/degoog-org/degoog/pull/388) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+3. ℹ️ Assigned PR [#388](https://github.com/degoog-org/degoog/pull/388) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+4. 🗣 Commented on [#47](https://github.com/SoPat712/Speeder/issues/47#issuecomment-6752663813) in [SoPat712/Speeder](https://github.com/SoPat712/Speeder)
+5. 💪 Opened PR [#388](https://github.com/degoog-org/degoog/pull/388) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

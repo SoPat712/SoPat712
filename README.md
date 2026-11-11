@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/degoog-org/official-extensions/issues/26#issuecomment-6777898253) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
-2. 🔒 Closed issue [#26](https://github.com/degoog-org/official-extensions/issues/26) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
-3. 🎉 Merged PR [#65](https://github.com/degoog-org/official-extensions/pull/65) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
-4. ❌ Closed PR [#66](https://github.com/degoog-org/official-extensions/pull/66) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
-5. 🗣 Commented on [#66](https://github.com/degoog-org/official-extensions/pull/66#issuecomment-6777723275) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
+1. 💪 Opened PR [#393](https://github.com/degoog-org/degoog/pull/393) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+2. 💪 Opened PR [#392](https://github.com/degoog-org/degoog/pull/392) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+3. 🗣 Commented on [#26](https://github.com/degoog-org/official-extensions/issues/26#issuecomment-6777898253) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
+4. 🔒 Closed issue [#26](https://github.com/degoog-org/official-extensions/issues/26) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
+5. 🎉 Merged PR [#65](https://github.com/degoog-org/official-extensions/pull/65) in [degoog-org/official-extensions](https://github.com/degoog-org/official-extensions)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

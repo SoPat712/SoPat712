@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#20](https://github.com/SoPat712/degoog-toolkit/issues/20) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-2. 💪 Opened PR [#408](https://github.com/degoog-org/degoog/pull/408) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-3. 🎉 Merged PR [#404](https://github.com/degoog-org/degoog/pull/404) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-4. 💪 Opened PR [#405](https://github.com/degoog-org/degoog/pull/405) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-5. 🗣 Commented on [#21](https://github.com/SoPat712/degoog-toolkit/issues/21#issuecomment-6899770827) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+1. ℹ️ Assigned PR [#408](https://github.com/degoog-org/degoog/pull/408) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+2. ℹ️ Assigned PR [#408](https://github.com/degoog-org/degoog/pull/408) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+3. 💪 Opened PR [#412](https://github.com/degoog-org/degoog/pull/412) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
+4. 🔒 Closed issue [#20](https://github.com/SoPat712/degoog-toolkit/issues/20) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+5. 💪 Opened PR [#408](https://github.com/degoog-org/degoog/pull/408) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)

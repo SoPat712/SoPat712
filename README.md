@@ -42,11 +42,11 @@ I'm Josh! I like to make things for myself and sometimes other people!
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#22](https://github.com/SoPat712/degoog-toolkit/issues/22) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-2. ℹ️ Labeled issue [#22](https://github.com/SoPat712/degoog-toolkit/issues/22) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-3. ℹ️ Assigned issue [#22](https://github.com/SoPat712/degoog-toolkit/issues/22) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
-4. 🎉 Merged PR [#412](https://github.com/degoog-org/degoog/pull/412) in [degoog-org/degoog](https://github.com/degoog-org/degoog)
-5. 🗣 Commented on [#23](https://github.com/SoPat712/allstarr/issues/23#issuecomment-7085472066) in [SoPat712/allstarr](https://github.com/SoPat712/allstarr)
+1. 🔓 Reopened issue [#21](https://github.com/SoPat712/degoog-toolkit/issues/21) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+2. 🗣 Commented on [#22](https://github.com/SoPat712/degoog-toolkit/issues/22#issuecomment-7227667525) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+3. 🗣 Commented on [#21](https://github.com/SoPat712/degoog-toolkit/issues/21#issuecomment-7227665581) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+4. 🔒 Closed issue [#21](https://github.com/SoPat712/degoog-toolkit/issues/21) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
+5. ℹ️ Labeled issue [#22](https://github.com/SoPat712/degoog-toolkit/issues/22) in [SoPat712/degoog-toolkit](https://github.com/SoPat712/degoog-toolkit)
 <!--END_SECTION:activity-->
 
 ![](https://hit.yhype.me/github/profile?account_id=30350506)
